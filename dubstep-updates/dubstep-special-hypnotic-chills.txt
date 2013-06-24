@@ -1,0 +1,50 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_special_hypnotic_chills
+2013
+Dubstep
+# tracklist (song, artist, album each)
+Killin It (Stratus Remix)
+Krewella
+mp3://soundcloud.com/trapmusic/killin-it-by-krewella-stratus/download
+Gucci Mane
+Wish You Would (ZOMBASS FreakStep Remix)
+http://www.youtube.com/watch?v=jCyFDy4wp1E
+Insect Flick
+Koven
+mp3://soundcloud.com/dubstep/insect-flick-by-koven/download
+Moral Decay
+Mister Black
+http://soundcloud.com/misterblack-dubstep/mister-black-01-moral-decay
+Lies
+Marina and the Diamond (Zeds Dead Remix)
+http://www.youtube.com/watch?v=KTYD_kN7rPg
+Time
+Truth & Yayne
+mp3://soundcloud.com/truthdubstep/truth-yayne-time-loves-shadow/download
+Sweeter Things (Eleven8 Remix)
+Asa
+mp3://soundcloud.com/eleven8/sweeter-things-remix/download
+Video Games (Sound Remedy Remix)
+Lana Del Rey
+mp3://soundcloud.com/trapswerve/lana-del-rey-video-games-sound/download
+Think.
+Brownz
+https://soundcloud.com/brownzmusic/think
+# title image
+
+
+res://8tracks.imgix.net/i/000/450/605/c/chillout_2-312-2617.png?fm=jpg
+# end tag
+END
