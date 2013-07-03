@@ -1,0 +1,95 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_june_2013
+2013
+Dubstep
+# tracklist (song, artist, album each)
+Your Addiction (Culture Code Remix)
+Duelle & CiRRO
+mp3://soundcloud.com/dubstep/your-addiction-by-duelle-cirro/download
+Asteroid
+Rameses B
+mp3://soundcloud.com/dubstep/asteroid-by-rameses-b/download
+Fade into Darkness (SirensCeol Remix)
+Avicii
+http://www.youtube.com/watch?v=2ofmSuOEe9Q
+WASH DAT
+Alvin Risk
+mp3://soundcloud.com/nickraymondg/alvin-risk-wash-dat/download
+Cobra
+Vaski
+mp3://soundcloud.com/dubstep/cobra-by-vaski/download
+Homecoming Ft. Notorious BIG & Jay-Z (DANK'S Rump Wit Me Remix)
+Kanye West
+mp3://soundcloud.com/dj-dank-music/kanye-west-homecoming-ft/download
+Epic Life ft. Bella Saona (Chooky Remix)
+The R.O.A.R.
+mp3://soundcloud.com/moombahton/epic-life-by-the-r-o-a-r-ft/download
+Slasherr [Flume Edit]
+Rustie
+mp3://soundcloud.com/nickraymondg/rustie-slasherr-flume-edit/download
+Forest
+HaKor
+mp3://soundcloud.com/hakor/forest/download
+Escape feat. Bright Lights (Original Mix)
+3LAU, Paris & Simo
+http://www.youtube.com/watch?v=8fGn_nXX7Uw/download
+Skylarking (Ilan Bluestone Remix Radio Edit)
+BT
+http://www.youtube.com/watch?v=jP1g43E4koY/download
+Believe and Love (feat. Melissa Pixel) (ZemBek Remix)
+The2ndHope
+https://soundcloud.com/zembekofficial/the2ndhope-believe-and-love
+Cyanide
+Calvertron & Wayne A
+https://soundcloud.com/drumandbass/cyanide-by-calvertron-wayne-a
+Sixteen And Free
+PANTyRAiD
+https://soundcloud.com/nickraymondg/pantyraid-sixteen-and-free
+Truth (Candyland Remix)
+Tristam
+http://www.youtube.com/watch?v=hihckaA5tMs
+Vicinity
+Terravision
+mp3://soundcloud.com/drumandbass/vicinity-by-terravision/download
+Fire Inside (Skrux Rework)
+Mr FijiWiji
+mp3://soundcloud.com/dubstep/fire-inside-by-mr-fijiwiji/download
+Come Find Me (Ascendance & Respirate Remix)
+The Nineties & Ascendance ft. Cori Pena
+mp3://soundcloud.com/trapmusic/come-find-me-by-the-nineties/download
+Chemistry (TBMA Remix)
+Sydney Blu & Christian Falero ft. Lea Luna
+http://www.youtube.com/watch?v=9e2pbOQezOY
+By Your Side
+Zeds Dead
+mp3://soundcloud.com/nickraymondg/zeds-dead-by-your-side-free/download
+Time
+Luckner ft. Sophie Louise
+mp3://soundcloud.com/housemusic/time-by-luckner-ft-sophie/download
+Night Runner
+Broker
+mp3://soundcloud.com/drumandbass/night-runner-by-broker/download
+Village Bicycle
+Charity Strike
+mp3://soundcloud.com/trapmusic/village-bicycle-by-charity/download
+Boss Wave (Dodge & Fuski Remix)
+Xilent
+http://www.youtube.com/watch?v=6fFQIRHEjME
+# title image
+
+
+res://8tracks.imgix.net/i/000/471/011/c/june_10-3663.png?fm=jpg
+# end tag
+END
