@@ -84,12 +84,9 @@ mp3://soundcloud.com/dubstep/humanity-by-phasmo/download
 Home ft. Ivy Jane (RoughMath Remix)
 Jarvis
 mp3://soundcloud.com/dubstep/home-by-jarvis-ft-ivy-jane/download
-Lathe of Heaven
-Anna Yvette
-mp3://soundcloud.com/drumandbass/lathe-of-heaven-by-anna-yvette/download
 # title image
 
 
-res:// ... .png?fm=jpg
+res://http://8tracks.imgix.net/i/000/665/196/c/august_5-2096.png?fm=jpg
 # end tag
 END
