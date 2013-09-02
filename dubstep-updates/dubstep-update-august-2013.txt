@@ -1,0 +1,95 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_aug_2013
+2013
+Dubstep
+# tracklist (song, artist, album each)
+Ghosts In The Machine feat. Pennybirdrabbit (Kill The Noise Remix)
+The M Machine
+https://www.youtube.com/watch?v=XA9XJfvBcb4
+Home ft. Ivy Jayne (SirensCeol Remix)
+Jarvis
+mp3://soundcloud.com/dubstep/home-by-jarvis-ft-ivy-jayne/download
+Time Machine
+Dj Al One x Слэш
+mp3://soundcloud.com/la88/dj-al-one-x-time-machin/download
+Summertime Sadness (Nicky Boy Remix)
+Lana Del Ray
+http://www.youtube.com/watch?v=kWDSONMqWM0
+Come To Me
+Walking Def
+http://www.youtube.com/watch?v=bJ15F2GChY0
+Apollo (Dodge & Fuski Remix)
+Astronaut
+http://www.youtube.com/watch?v=ey1eQHi-78o
+Kodjo
+SlowFace
+http://www.youtube.com/watch?v=Gg1vuBQiBnQ
+Atom & Eve
+Meta & Impact Theory
+http://www.youtube.com/watch?v=m7MTZNJ3mrs
+Life Of Sin Pt.4 (Original Mix)
+MitiS
+http://www.youtube.com/watch?v=VOuCSO805o0
+Moonland
+Au5
+http://www.youtube.com/watch?v=cXXuo6jRnP8
+Let Go ft. Mimi Page (Dyslex VIP Remix)
+Kezwik
+mp3://soundcloud.com/trapmusic/let-go-by-kezwik-ft-mimi-page/download
+No Man's Land (R/D + ill.Gates Remix)
+Luxe Laredo feat Honey LaRochelle
+http://www.youtube.com/watch?v=nu_xD40bwgI
+Boss Anthem 
+4EU3 & DMNDZ
+http://www.youtube.com/watch?v=NMOJ2nsc1mU
+Wasting My Young Years (Sound Remedy Remix)
+London Grammar
+http://www.youtube.com/watch?v=6UpaFEgzOcc
+Endless
+Slangor
+mp3://soundcloud.com/drumandbass/endless-by-slangor/download
+Your Addiction (Nasty Attack Remix)
+Duelle & CiRRo
+mp3://soundcloud.com/drumandbass/your-addiction-by-duelle-cirro/download
+We Go Down
+Krewella
+http://www.youtube.com/watch?v=8p8tCpcaBMo
+Grey
+Sam F
+http://www.youtube.com/watch?v=RDfHTE3fssQ
+Seeking of the Truth (feat. Taryn Manning)
+Razihel
+http://www.youtube.com/watch?v=Qy3oB1DmXio
+Dream of You
+PIXL & Dead Robot
+http://www.youtube.com/watch?v=uYE9ol3oj88
+Mollylujah (SWVZY Remix)
+Jitta On The Track
+mp3://soundcloud.com/trapmusic/mollylujah-by-jitta-on-the/download
+Humanity
+Phasmo
+mp3://soundcloud.com/dubstep/humanity-by-phasmo/download
+Home ft. Ivy Jane (RoughMath Remix)
+Jarvis
+mp3://soundcloud.com/dubstep/home-by-jarvis-ft-ivy-jane/download
+Lathe of Heaven
+Anna Yvette
+mp3://soundcloud.com/drumandbass/lathe-of-heaven-by-anna-yvette/download
+# title image
+
+
+res:// ... .png?fm=jpg
+# end tag
+END
