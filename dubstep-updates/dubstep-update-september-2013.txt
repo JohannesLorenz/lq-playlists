@@ -1,0 +1,104 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_sep_2013
+2013
+Dubstep
+# tracklist (song, artist, album each)
+Hypnotizing (Vocal VIP)
+SPL
+mp3://soundcloud.com/dubstep/hypnotizing-vocal-vip-by-spl/download
+Full Force
+Rameses B
+http://www.youtube.com/watch?v=x-xW0Bx2x14
+Burn (Glow Team Remix)
+Ellie Goulding
+mp3://soundcloud.com/dubstep/burn-by-ellie-goulding-glow/download
+Summer Ashes ft. Taryn Manning (Ultra Foxx Remix)
+Kevin Drew
+http://www.youtube.com/watch?v=Wl5FlQLYTQw
+Fly ft. Alina Renae (Isqa Remix)
+Protohype
+http://www.youtube.com/watch?v=nbIsJkbq4ms
+Moments (Ennui Remix)
+Mutrix
+mp3://soundcloud.com/dubstep/moments-by-mutrix-ft-charity-1/download
+Vancouver Beatdown (EH!DE Remix)
+Zomboy
+http://www.youtube.com/watch?v=e2svMTkgPLw
+This Is Not The End
+Krewella & Pegboard Nerds
+mp3://soundcloud.com/dubstep/this-is-not-the-end-by/download
+Thumbs Up (For Rock N' Roll) (Kill The Noise Remix)
+Kill The Noise
+http://www.youtube.com/watch?v=nJMl0F6hPMQ
+Escape ft. Bright Lights (Collin McLoughlin Remix)
+3LAU, Paris & Simo
+http://www.youtube.com/watch?v=4fE2bflgcD8
+Hannah Montana ( Borgore And Protohype Remix )
+Migos
+mp3://soundcloud.com/buygore/migos-hannah-montana-borgore/download
+Nothing Bad
+At Dawn We Rage
+mp3://soundcloud.com/trapmusic/nothing-bad-by-at-dawn-we-rage/download
+Underworld ft. Precious Hill
+Timeline & Dreamslayer
+https://soundcloud.com/dubstep/underworld-by-timeline
+The Ocean ft. Alissa Dawson (Original Mix)
+SirensCeol
+http://www.youtube.com/watch?v=_naTxFODRVc
+Something (Rameses B Remix)
+AZEDIA
+mp3://soundcloud.com/ramesesb/azedia-something-rameses-b/download
+Colors of Your Life (Radio Edit)
+RAVEN
+http://www.youtube.com/watch?v=QOvk7KSU85M
+Take You Down (Special Edit)
+Bassnectar
+http://www.youtube.com/watch?v=p7cGw1En-M8
+Grey (Rudebrat Remix)
+Sam F
+mp3://soundcloud.com/trapmusic/grey-by-sam-f-rudebrat-remix/download
+Summer Ashes ft. Taryn Manning (Culture Code Remix)
+Kevin Drew
+http://www.youtube.com/watch?v=DFUwPVkTg7c
+Power Surge
+Stylust Beats
+https://soundcloud.com/stylustbeats/stylust-beats-power-surge/download
+Puerto Rico
+SPL
+mp3://soundcloud.com/dubstep/puerto-rico-by-spl-dubstep-net/download
+No Boundaries ft. Margo Elena
+Terravision
+mp3://soundcloud.com/drumandbass/no-boundaries-by-terravision/download
+Indie Anna Jones (Gold Top Remix)
+Clinton VanSciver
+mp3://soundcloud.com/trapmusic/indie-anna-jones-by-clinton/download
+Run
+Secoya
+mp3://soundcloud.com/dubstep/run-by-secoya/download
+Safe ft. Belle Humble (Razihel Remix)
+DJ Muggs
+mp3://soundcloud.com/edmtunes/dj-muggs-safe-razihel/download
+Enjoy The Ride
+Krewella
+http://www.youtube.com/watch?v=CZwfjupFJ_U
+Vapour
+Au5
+mp3://soundcloud.com/edmtunes/au5-vapour/download
+# title image
+
+
+res://8tracks.imgix.net/i/000/768/454/c/september_2013_final-5972.png?fm=jpg
+# end tag
+END
