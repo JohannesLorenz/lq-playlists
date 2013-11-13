@@ -1,0 +1,99 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_oct_2013
+2013
+Dubstep
+# tracklist (song, artist, album each)
+Sensation
+SirensCeol
+mp3://soundcloud.com/dubstep/sensation-by-sirensceol/download
+Play This Game (EH!DE Remix)
+Datphoria
+mp3://soundcloud.com/dubstep/play-this-game-by-datphoria-eh/download
+Scatman (Au5, Savant, Fractal and Prismatic Remix)
+Scatman John
+mp3://soundcloud.com/aleksander-vinter/scatman-au5-savant-fractal-and/download
+Blue
+Ablaze
+mp3://soundcloud.com/dubstep/blue-by-ablaze/download
+Falcon Punch VIP
+Razihel
+http://www.youtube.com/watch?v=Hj8i71Ml-z8
+Arcade Bandit
+Bullseye
+mp3://soundcloud.com/dubstep/arcade-bandit-by-bullseye/download
+Uproar
+Creaky Jackals
+mp3://soundcloud.com/dubstep/uproar-by-creaky-jackals/download
+My Love (Dr. Freschs Hashtag Remix)
+Justin Timberlake
+http://www.youtube.com/watch?v=y8P6-SW4JSw
+Dreams
+No Limits
+mp3://soundcloud.com/dubstep/dreams-by-no-limits/download
+Underwater (feat. Meron Ryan)
+Rameses B
+http://www.youtube.com/watch?v=DsOsMmq4RpU
+Timeless (feat. Veela)
+Rameses B
+http://www.youtube.com/watch?v=j4aaEHsS5Xc
+You ve Got Some (Dubstep Edit)
+The Madison
+http://www.youtube.com/watch?v=-Q31XqolMtQ
+I Always Wonder Whos Killin It (NUDr0p MashUp)
+Skrux vs. Krewella
+mp3://soundcloud.com/nudr0p/skrux-vs-krewella-i-always/download
+Glass Castle
+MUST DIE!
+http://www.youtube.com/watch?v=i_v5uMML2J8
+Graves [WIP] (halloween Trap)
+Rudebrat
+mp3://soundcloud.com/nudr0p/skrux-vs-krewella-i-always/download
+Make Love ft Mademoizell
+Another Monster
+mp3://soundcloud.com/dubstep/make-love-by-another-monster/download
+Stardust Redux (Filibusta Remix)
+Minnesota
+mp3://soundcloud.com/drumandbass/stardust-redux-by-minnesota/download
+Still In Luv With It ft. Chamillionaire
+Dank & jACQ
+mp3://soundcloud.com/dj-dank-music/dank-jacq-ft-chamillionaire/download
+Body Work feat. Tegan and Sara (Collin McLoughlin Bootleg Remix)
+Morgan Page
+mp3://soundcloud.com/collinmcloughlin/body-work-collin-mcloughlin-1/download
+Believe ft. Zloth
+Vena Cava
+mp3://soundcloud.com/dubstep/believe-by-vena-cava-ft-zloth/download
+Twerk ft. Anna Yvette (K100 Remix)
+Diamond Pistols
+mp3://soundcloud.com/dropthebassline/diamond-pistols-twerk-ft/download
+Ebb & Flow
+Feed Me & Tasha Baxter
+http://www.youtube.com/watch?v=tShLlqP9RQE
+Always Wonder (Skrux Remix)
+Rudebrat
+mp3://soundcloud.com/dubstep/always-wonder-by-rudebrat-1/download
+Find You ft. Complexion (Skrux VIP)
+Skrux & Felxprod
+http://www.youtube.com/watch?v=5F6yp7SbCRs
+Walk Away
+Jarvis
+mp3://soundcloud.com/dubstep/walk-away-by-jarvis/download
+# title image
+
+
+res://8tracks.imgix.net/i/001/460/825/october_2013_final-213.png?fm=jpg
+# end tag
+END
+
