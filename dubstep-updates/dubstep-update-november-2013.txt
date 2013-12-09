@@ -1,0 +1,104 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_nov_2013
+2013
+Dubstep
+# tracklist (song, artist, album each)
+The Little Drummer Boy (DANK Remix)
+The Salsoul Orchestra
+http://soundcloud.com/dj-dank-music/the-salsoul
+Macarena ft. Kennedy Jones
+Borgore
+mp3://soundcloud.com/moombahton/macarena-by-borgore-ft-kennedy/download
+Ignite It (TOER Remix VIP)
+City 17
+http://www.youtube.com/watch?v=e6jeUKg0Gww
+Game Boy
+EH!DE & Panda Eyes
+mp3://soundcloud.com/dubstep/game-boy-by-eh-de-panda-eyes/download
+Power
+K Theory
+https://soundcloud.com/nickraymondg/k-theory-power-pay-what-you
+Hurt So Good ft. Anna Yvette
+Dirt Monkey
+https://soundcloud.com/moombahton/hurt-so-good-by-dirt-monkey-ft
+High Roller ft. Splitbreed (Dodge & Fuski Remix)
+Pegboard Nerds
+mp3://soundcloud.com/viral-videos/dodge-fuski-pegboard-nerds/download
+West Coast (Instrumental)
+Brown & Gammon
+https://soundcloud.com/dubstep/west-coast-instrumental-by
+My Heart
+Different Heaven & EH!DE
+mp3://soundcloud.com/dubstep/my-heart-by-different-heaven/download
+Power Glove (DMNDZ Remix)
+Knife Party
+http://www.youtube.com/watch?v=may-zKEl920
+When The Sky Fell (Sound Remedy Remix)
+SHEL
+mp3://soundcloud.com/nickraymondg/shel-when-the-sky-fell-sound/download
+Im Not Afraid ft. Angela Seal
+R/D
+mp3://soundcloud.com/dubstep/im-not-afraid-by-r-d-ft-angela/download
+PHX
+at dawn we rage
+http://www.youtube.com/watch?v=hNniz6Y_xr0
+Dialogues
+Deflo
+mp3://soundcloud.com/trapmusic/dialogues-by-deflo/download
+Nowhere Near (Rameses B Remix)
+Blake Reary
+http://www.youtube.com/watch?v=9wQoIRD3Spo
+Type Of Way (Mayhem Edit)
+Rich Homie Quan
+mp3://soundcloud.com/nickraymondg/rich-homie-quan-type-of-way/download
+Starlight ft. Betty Black (SPL Remix)
+RUN DMT
+mp3://soundcloud.com/drumandbass/starlight-by-run-dmt-ft-betty/download
+Just Like Me ft. Sanna Hartfield
+Raise Spirit
+mp3://soundcloud.com/drumandbass/just-like-me-by-raise-spirit/download
+Rock U Tonite (SLUMBERJACK Remix)
+Waveracer
+mp3://soundcloud.com/trapmusic/rock-u-tonite-by-waveracer/download
+Up And Down
+OW3S
+mp3://soundcloud.com/drumandbass/up-and-down-by-ow3s/download
+Runaway (Elliot Berger Remix)
+Aether & Amber Noel
+mp3://soundcloud.com/dubstep/runaway-by-aether-amber-noel/download
+Malfunktion 2.0 ft. Duelle
+Kayzo
+http://www.youtube.com/watch?v=iEw4oXd0Phk
+The End Is Nigh (Original Mix)
+Bear Grillz
+http://www.youtube.com/watch?v=Qcvp8XmNmvk
+Hurt So Good (Point.Blank Remix)
+Dirt Monkey & Anna Yvette
+http://www.youtube.com/watch?v=cut7uIA8R-U
+Can You Feel Me (Zerotic Love Edit)
+Zerotic
+mp3://soundcloud.com/dubstep/can-you-feel-me-by-zerotic/download
+Slow Burn ft. Alexa Ayaz
+Culture Code
+mp3://soundcloud.com/dubstep/slow-burn-by-culture-code-ft/download
+Being Human ft. Mona Moua
+Skrux
+mp3://soundcloud.com/dubstep/being-human-by-skrux-ft-mona/download
+# title image
+
+
+res://8tracks.imgix.net/i/001/558/065/nov_candidate_1-1767.png?fm=jpg
+# end tag
+END
