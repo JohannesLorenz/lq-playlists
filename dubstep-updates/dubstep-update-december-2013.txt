@@ -1,0 +1,89 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_dec_2013
+2013
+Dubstep
+# tracklist (song, artist, album each)
+Here To Stay (MUST DIE! Remix)
+Zomboy
+http://www.youtube.com/watch?v=h_BXhw0zQgk
+My Heart (Spag Heddy Shine em Sines Remix)
+Different Heaven & EH!DE
+mp3://soundcloud.com/spagheddy/different-heaven-eh-de-my/download
+Rap God (DMNDZ Remix)
+Eminem
+http://www.youtube.com/watch?v=6S9oDBW4Kwk
+Roar (Brillz Radio Edit)
+Katy Perry
+http://www.youtube.com/watch?v=j2PNu1VobQM
+Jingle Bells
+EH!DE
+http://www.youtube.com/watch?v=6u0GoGJ6w8w
+So Funky (Original Mix)
+Funk4Mation & Nasty Attack
+http://www.youtube.com/watch?v=6h_sLDO6wKI
+Sanity
+Fractal
+mp3://soundcloud.com/edm/sanity-by-fractal-edm-com-2/download
+Shishkabob
+Doctor P
+mp3://soundcloud.com/dubstep/shishkabob-by-doctor-p/download
+Im in Need (VIP)
+Savoy
+mp3://soundcloud.com/edmtunestv/savoy-im-in-need-vip/download
+Mind Control
+Zomboy
+http://www.youtube.com/watch?v=4OCFSaXL-yY
+Believe Me (Glow Team Remix)
+Skrux ft. Complexion
+mp3://soundcloud.com/dubstep/believe-me-by-skrux-ft/download
+Good 2 U
+Baauer
+mp3://luckymedia.s3.amazonaws.com/_WEB/advent/advent-2013/Day23.mp3
+Take Time
+Houcemate
+mp3://soundcloud.com/trapmusic/take-time-by-houcemate/download
+Drop Our Hearts ft. Sirma
+Illenium
+mp3://soundcloud.com/dubstep/drop-our-hearts-by-illenium-ft/download
+Reign ft. Doubletake
+Venemy & Aznar
+mp3://soundcloud.com/dubstep/reign-by-venemy-aznar/download
+Glory & Gore (Unlike Pluto Remix)
+Lorde
+mp3://soundcloud.com/themajorminor/lorde-glory-gore-unlike-pluto/download
+Coffins
+Pegboard Nerds x Misterwives
+mp3://soundcloud.com/monstercat/pegboard-nerds-x-misterwives/download
+Take Me Away ft. Sue Cho
+Rameses B
+mp3://soundcloud.com/ramesesb/rameses-b-ft-sue-cho-take-me/download
+Milton Keynes
+Jarvis (UK)
+http://www.youtube.com/watch?v=hEe63950Pms
+Being Human ft. Mona Moua (Arkana Remix)
+Skrux
+mp3://soundcloud.com/skrux/skrux-being-human-ft-mona-1/download
+Avalanches ft. Sound Remedy & Kill Paris
+Alma
+mp3://soundcloud.com/dubstep/avalanches-by-alma/download
+Burn (Ricky Cervantes Lounge Mix)
+Ellie Goulding
+mp3://soundcloud.com/themajorminor/ellie-goulding-burn-ricky/download
+# title image
+
+
+res://8tracks.imgix.net/i/001/651/351/december_2013_8tracks-8408.png?fm=jpg
+# end tag
+END
