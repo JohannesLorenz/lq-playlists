@@ -1,0 +1,83 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_jan_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Flexin
+TOER
+mp3://soundcloud.com/dubstep/flexin-by-toer/download
+Wild Out ft. Waka Flocka Flame & Paige (LAZER LAZER LAZER & The Kingdumb Remix)
+Borgore
+mp3://soundcloud.com/lazerlazerlazer/wildout-lll-kd-remix-competition/download
+Cadillac
+Panda Eyes & Alpha Noize
+mp3://soundcloud.com/officialpandaeyes/panda-eyes-alpha-noize/download
+Kyoto Goin Nuclear (Mashup)
+EH!DE
+http://www.youtube.com/watch?v=H9UBfYkA_N8
+Everything I Need
+Datphoria
+http://www.youtube.com/watch?v=uIx1PJXHIjI
+Serpentine (Spag Heddy Edit)
+MUST DIE!
+http://www.youtube.com/watch?v=edV3tS0nPwE
+Im Alive (MUST DIE! Remix)
+Bourke & Vegas
+mp3://soundcloud.com/mustdiemusic/bourke-vegas-im-alive-must/download
+Mastodon ft. Alina Renae (Moiez Remix)
+Milk N Cookies
+mp3://soundcloud.com/edmtunestv/mastodon-moiez-remix/download
+Touch (Woolymammoth Remix)
+Party Favor
+mp3://soundcloud.com/trapmusic/touch-by-party-favor/download
+Bang It To The Curb
+Far East Movement & Sidney Samson
+mp3://soundcloud.com/edmtunestv/bang-it-to-the-curb/download
+After Now
+Melodeyes
+mp3://soundcloud.com/trapmusic/afternow-by-melodeyes/download
+Nevertheless
+eleven8
+https://soundcloud.com/eleven8/nevertheless
+PLVCK
+Creaky Jackals
+mp3://soundcloud.com/trapmusic/plvck-by-creaky-jackals/download
+Coming Down
+KR$CHN & Joan Of Art
+mp3://soundcloud.com/trapmusic/coming-down-by-kr-chn-joan-of/download
+Get Me Through ft. Tasha Baxter
+Elk Road
+mp3://soundcloud.com/edm/get-me-through-by-elk-road-ft/download
+Rain (MitiS Remix)
+Astronaut
+http://www.youtube.com/watch?v=0Gf5bXR-Ucg
+Russian Lullaby (Candyland Remix)
+Butch Clancy
+mp3://soundcloud.com/trapmusic/russian-lullaby-by-butch/download
+Amelie
+Fytch
+mp3://soundcloud.com/dubstep/amelie-by-fytch/download
+Brighter Lights ft. Alex Staltari & Diana (Culture Code Remix)
+Reeves Raymond
+mp3://soundcloud.com/dubstep/brighter-lights-by-reeves/download
+Being Human ft. Mona Moua (T-Mass Remix)
+Skrux
+mp3://soundcloud.com/edmtunestv/being-human-tmass-remix/download
+# title image
+
+
+res://8tracks.imgix.net/i/001/790/922/januar_2014-5508.png?fm=jpg
+# end tag
+END
