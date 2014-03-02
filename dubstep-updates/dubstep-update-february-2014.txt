@@ -1,0 +1,80 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_feb_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Clowns
+King Trimble
+mp3://soundcloud.com/dubstep/clowns-by-king-trimble/download
+I Want You
+Bad Catholics & Dec3mber
+mp3://soundcloud.com/dubstep/i-want-you-by-bad-catholics/download
+Where We Belong (Zomboy Remix)
+Fedde Le Grand & DI-RECT
+http://www.youtube.com/watch?v=c4bHLhW-G5w
+Stay The Night Feat. Hayley Williams (Dead Robot Remix)
+Zedd
+http://www.youtube.com/watch?v=fFco4hrD0Go
+Incredicool
+Different Heaven & Omar Varela
+http://www.youtube.com/watch?v=xwDgg67VkrI
+Big Adventure
+EH!DE
+http://www.youtube.com/watch?v=OF1haD_9q3g
+Ransom Note
+SPL
+http://www.dailymotion.com/video/x1bvgg3_ransom-note-by-spl-edm-com-premiere_music
+Beware of the Boys (Lookas & D!RTY AUD!O Festival Retwerk)
+Panjabi MC
+mp3://soundcloud.com/edmtunestv/beware-of-the-boys-lookas/download
+Shock
+Dilemn
+https://soundcloud.com/glitchhop/shock-by-dilemn
+Alsarah
+Flechette
+mp3://soundcloud.com/trapmusic/alsarah-by-flechette/download
+Kingdom feat. Melissa Pixel
+Mustache Riot & Notation
+http://www.youtube.com/watch?v=h1esSVtbjbQ
+Finally (Jay Cosmic Remix)
+Mikkas & Amba Shepherd
+mp3://soundcloud.com/drumandbass/finally-by-mikkas-amba/download
+Rainbow Road
+Nanobii
+http://www.youtube.com/watch?v=2rNBG3LbvkE
+To The Stars
+EH!DE
+http://www.youtube.com/watch?v=hn3quYoWXmM
+No Way (Live City Remix)
+The Naked & Famous
+http://www.youtube.com/watch?v=ZXHYYgJpZP4
+One In A Million (SirensCeol Remix)
+Kick the Habit
+http://www.youtube.com/watch?v=rw6vr-NsMbY
+Changes
+Distant Future
+https://soundcloud.com/drumandbass/changes-by-distant-future
+Dont Wanna Be Your Girl (Branchez Remix)
+Wet
+http://www.youtube.com/watch?v=mqvXg3RTARQ
+Fame
+Borgore
+https://soundcloud.com/borgore/fame
+# title image
+
+
+res://intelcentino.in.funpic.de/upload/februar_2014_hd.png
+# end tag
+END
