@@ -1,0 +1,117 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_mar_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Bad Habits (TOER Remix)
+Brass Knuckles
+https://soundcloud.com/toermusic/brass-knuckles-bad-habits
+Young At Heart ft. Kathryn McLean (Illuminate VIP Remix)
+RageQuit
+mp3://soundcloud.com/glitchhop/young-at-heart-by-ragequit-ft/download
+Like this (EH!DE Remix)
+Protohype & 12th Planet
+http://www.youtube.com/watch?v=-X2aYg9LkKA
+Its Goin Down
+jACQ
+https://soundcloud.com/trapandbass/jacq-its-goin-down-original
+Big Adventure (Funk4Mation Remix)
+EH!DE
+mp3://soundcloud.com/dubstep/big-adventure-by-eh-de/download
+Cosmonauts (Original Mix)
+Funk4Mation
+http://www.youtube.com/watch?v=kcd6MhK46Zo
+Condukta
+Madman
+mp3://soundcloud.com/dubstep/madman-by-condukta/download
+Wizards
+Hidden Substance
+mp3://soundcloud.com/drumandbass/wizards-by-hidden-substance/download
+Valkyrie
+Wildpuppet
+http://www.youtube.com/watch?v=8JjKyz2dn6s
+Artaria
+VYGR1
+mp3://soundcloud.com/mid-tempo/artaria-by-vygr1-edm-com/download
+Chimbre ft. Anna Yvette (MUST DIE! Remix)
+Bro Safari & UFO!
+http://www.youtube.com/watch?v=cyLwbVG7Eq4
+# download must dies remix as ZIP per hand: bit.ly/OkSpdT
+Pvrple Forest
+Ganz
+http://www.youtube.com/watch?v=ZDuLjONwT_s
+Secret
+Aero Chord & GAWTBASS
+mp3://soundcloud.com/trapmusic/secret-by-aero-chord-gawtbass/download
+This Is How I Feel (Illenium Remix)
+Demented Sound Mafia
+http://www.youtube.com/watch?v=twvrHT4bsYw
+Where You Been?
+Mayhem & Antiserum vs. Gent & Jawns
+mp3://soundcloud.com/trapmusic/where-you-been-by-mayhem/download
+Its Goin Down (SPL Remix)
+jACQ
+http://www.youtube.com/watch?v=CMcdOll3Hn0
+Skinny Love (Vanic Remix)
+Birdy
+http://www.youtube.com/watch?v=37DIzz5Q2bM
+Quantum (Spag Heddy Remix)
+Astronaut
+http://www.youtube.com/watch?v=dbTqckYWc74
+All Around
+Twofold
+mp3://soundcloud.com/dubstep/all-around-by-twofold/download
+A2B
+Psycho Crooks
+https://soundcloud.com/dubstep/a2b-by-psycho-crooks
+NRG (Skrillex, Kill The Noise, Milo & Otis Remix)
+Duck Sauce
+http://www.youtube.com/watch?v=hkkC8GPn0-U
+King Of The Stars
+PASSiO
+https://soundcloud.com/edmtlifestyle/passio-king-of-the-stars
+Bae
+BriaZ
+mp3://soundcloud.com/mid-tempo/bae-by-briaz/download
+Ethereal ft. Eekoz
+Creaky Jackals
+mp3://soundcloud.com/dubstep/ethereal-by-creaky-jackals-ft/download
+Nostalgibra
+Spag Heddy
+mp3://soundcloud.com/edmtunestv/spag-heddy-nostalgibra/download
+Single Ladies (Elephante Remix)
+Beyonce
+http://www.youtube.com/watch?v=FqOjtptYrKo
+Barely Love You Too (Bronze Whale + Libations & Oscillations Edit)
+Frank + Derol
+mp3://soundcloud.com/nationaltrap/barely-love-you-too-bronze/download
+Welcome to the Real World ft. Diamond Eyes (Panda Eyes Remix)
+Barely Alive
+mp3://soundcloud.com/officialpandaeyes/barely-alive-welcome-to-the-1/download
+Lost
+Kevin Drew
+mp3://soundcloud.com/edm/lost-by-kevin-drew-edm-com-1/download
+Now Or Never ft. Phoebe Ryan (Kruewl Remix)
+Tritonal
+mp3://soundcloud.com/dubstep/now-or-never-by-tritonal-ft/download
+# title image(s)
+
+
+res://cloud-2.steampowered.com/ugc/468680364354226021/C3C5FF74F4DA686E82E36ED5A7FA5E0B8CCE8BD1/
+
+
+res://cloud-2.steampowered.com/ugc/468680364354209157/81E838A945386A31143E39D6965F64072A66C485/
+# end tag
+END
