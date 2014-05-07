@@ -1,0 +1,101 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_apr_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Right In (EH!DE Remix)
+Skrillex
+mp3://soundcloud.com/xedme/skrillex-right-in-eh-de-remix/download
+Dead Link
+Barely Alive
+mp3://soundcloud.com/dubstep/dead-link-by-barely-alive-edm-exclusive/download
+All For Nothing
+Alpha Noize & EH!DE
+mp3://soundcloud.com/dubstep/alpha-noize-ehde-all-for-nothing-edmcom-exclusive/download
+The Master (VIP)
+Spag Heddy
+mp3://soundcloud.com/dubstep/spag-heddy-the-master-vip/download
+Night Life
+Diamond Eyes
+http://www.youtube.com/watch?v=mVn5-Aw0kdk
+Firin My Lasers
+The Brig
+http://www.youtube.com/watch?v=ww_GTK2ISmo
+Brainbug (MUST DIE! Remix)
+LAXX
+http://www.youtube.com/watch?v=oEz8_CrqmQg
+Head Rush
+Tyler Blue
+http://www.youtube.com/watch?v=bTuFtFeTFJk
+Signs ft. Tiana Khasi (Radio Edit)
+Namaste
+http://www.youtube.com/watch?v=Q5hlUpwmopo
+Moving On
+Joe Ford
+http://www.youtube.com/watch?v=LZ34EzZLLQE
+We Gotta Rage ft. Jonny Rose (Jarvis Remix)
+Maurizio Inzaghi & Fine Touch
+https://soundcloud.com/maurizioinzaghi/maurizio-inzaghi-fine-touch-ft
+Live From The Heart
+Mr. Fox
+mp3://soundcloud.com/dubstep/mr-fox-live-from-the-heart/download
+Pacific
+Speaker Of The House
+mp3://soundcloud.com/dubstep/pacific-by-speaker-of-the/download
+Harder, Better, Faster, Stronger (Dillon Francis Remix)
+Daft Punk
+mp3://soundcloud.com/dillonfrancis/daft-punk-harder-better-faster-stronger-dillon-francis-remix/download
+Lose Control ft. Maruja Retana
+KATFYR
+http://www.youtube.com/watch?v=F53vh_5KN80
+Afterparty
+Elk Road & Already Always
+mp3://soundcloud.com/dubstep/elk-road-already-always-afterparty-edmcom-exclusive/download
+Float
+Kill Paris
+http://www.youtube.com/watch?v=jR7isDSr_gw
+One Night Only ft. Yohamna Solange
+Trivecta
+https://soundcloud.com/dubstep/one-night-only-by-trivecta-ft
+Run Away (Original Mix)
+Jarvis
+http://www.youtube.com/watch?v=GRtvxZFzL44
+Drop Our Hearts (Part II) ft. Sirma
+ILLENIUM & Said The Sky
+mp3://soundcloud.com/dubstep/illenium-said-the-sky-drop-our-hearts-part-ii-ft-sirma/download
+Obsessed ft. Lynn Gvnn
+TBMA
+mp3://soundcloud.com/dubstep/obsessed-by-tbma-ft-lynn-gunn-premiere/download
+Ride Wit Me (Viceroy Jet Life Remix)
+Nelly
+https://soundcloud.com/viceroymusic/nelly-ride-wit-me-viceroy
+Skyfire (King Trimble Remix)
+Twofold
+http://www.youtube.com/watch?v=9qtDfAn0QsA
+Night Terrors
+LUMBERJVCK
+mp3://soundcloud.com/dubstep/night-terrors-by-lumberjvck/download
+Rest Nest (Spag Heddy Remix)
+MUST DIE!
+mp3://soundcloud.com/airwavemusictv/must-die-rest-nest-spag-heddy/download
+Survivors
+Zomboy & MUST DIE!
+http://www.youtube.com/watch?v=hHdwygAHAso
+# title image(s)
+
+
+res://cloud-4.steampowered.com/ugc/468683188624417492/8A9D3D9F86A175ACE9F70FE7490FAAC0901DAE27/
+# end tag
+END
