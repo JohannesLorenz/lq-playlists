@@ -1,0 +1,104 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_may_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Alone
+Tucker Kreway
+http://www.youtube.com/watch?v=cjayCYeo8KQ
+Shockwave
+Teminite
+mp3://soundcloud.com/dubstep/teminite-shockwave/download
+We Are Nerds
+Michael White & EH!DE
+mp3://soundcloud.com/elektroshokrecords/eh-de-michael-white-we-are/download
+Virtual Oasis
+Condukta
+mp3://soundcloud.com/dubstep/condukta-virtual-oasis/download
+Welcome To Formation (EH!DE Remix)
+Funk4Mation
+http://www.youtube.com/watch?v=emt88D5s87E
+Get Busted
+EH!DE
+http://www.youtube.com/watch?v=MMPXmDeBlJA
+Malfunction
+Ruxell & King Trimble
+mp3://soundcloud.com/dubstep/ruxell-king-trimble-malfunction-edmcom-exclusive/download
+Nafta
+Spag Heddy & Panda Eyes
+http://www.youtube.com/watch?v=IRoEeOyXnVE
+Brink
+All Day! & MineSweepa
+http://www.youtube.com/watch?v=HcdBbYgzzr0
+Deathblow ft. Celldweller
+Seamless
+https://soundcloud.com/mid-tempo/seamless-deathblow-ft-celldweller
+Bounce (Antiserum & Mayhem Remix)
+Destroid
+mp3://soundcloud.com/drop-the-bassline/excision-space-laces-destroid-7-bounce-antiserum-mayhem-remix/download
+Crystals
+AWE
+http://www.youtube.com/watch?v=b2IvTlSZt2o
+Hyperion
+Flinch & Infuze
+http://www.youtube.com/watch?v=5rrWZ2_NKdw
+High
+Skunk
+mp3://soundcloud.com/chilltrap/skunk-high-edmcom-exclusive/download
+Drop It Down Like ft. Rachel Kramer (Radio Edit)
+Lady Bee
+http://www.youtube.com/watch?v=dTBfhQwqfLA
+Summer (Club Killers Festival Trap Remix)
+Calvin Harris
+http://www.youtube.com/watch?v=pRiZNv8heOY
+Clockwork
+Solarex & Oorora
+http://www.youtube.com/watch?v=m26AAZkm4SY
+Hard Game
+Neoh
+http://www.youtube.com/watch?v=dt1mkA-ZTRU
+Ghost Pepper
+At Dawn We Rage & Secoya
+mp3://soundcloud.com/dubstep/at-dawn-we-rage-secoya-ghost-pepper/download
+Illusions ft. Naz Tokio
+Heroes x Villains
+mp3://soundcloud.com/heroesxvillains/illusions-feat-naz-tokio-drop-free-dwnld-may-20/download
+Elephant Trap
+ÖRFAZ
+http://www.youtube.com/watch?v=7Sw0teLxX-A
+Nerve
+Favright
+http://www.youtube.com/watch?v=qmV1fFr1yuw
+West Coast (Vanic Remix)
+Lana Del Rey
+http://www.youtube.com/watch?v=9UXi10fLYc4
+D.A.N.C.E. (Rage Logic Remix)
+Justice
+http://www.youtube.com/watch?v=VvqEdX6YHWI
+Scream It Loud
+DatPhoria
+mp3://soundcloud.com/mid-tempo/datphoria-scream-it-loud-edmcom-exclusive/download
+Believe ft. Connor Zwetsch
+Trivecta
+http://www.youtube.com/watch?v=MVoHTpIclDQ
+# title image(s)
+
+
+res://cloud-2.steampowered.com/ugc/468686162935302363/96BC1FDF0B6F91C529F0CEFDB3590A490D7B88A7/
+
+
+res://cloud-2.steampowered.com/ugc/468686162935336803/7EF7ED8C38F238C334A8E04ACD99B669A1E07143/
+# end tag
+END
