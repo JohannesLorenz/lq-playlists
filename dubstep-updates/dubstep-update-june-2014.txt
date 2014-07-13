@@ -1,0 +1,110 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_june_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Culture
+MUST DIE! & Mantis
+http://www.youtube.com/watch?v=YzWfuFUG1yk
+Space Jam (Mutrix Tune Squad Remix)
+Mutrix
+http://www.youtube.com/watch?v=gbhMCF4yr70
+Hero ft. Elizaveta (Da Tweekaz Guitar Hero Mix)
+Pegboard Nerds
+mp3://soundcloud.com/datweekaz/pegboard-nerds-hero-da-tweekaz-guitar-hero-mix-free-track/download
+Peace & Melody (OverHertz Remix)
+Musetta
+mp3://soundcloud.com/dubstep/musetta-peace-melody-overhertz-remix-edmcom-exclusive/download
+Control
+Isqa
+http://www.youtube.com/watch?v=xulF6YBZyX8
+NEWGOREORDER
+Borgore
+mp3://soundcloud.com/borgore/newgoreorder-extended-mix/download
+Red
+Condukta
+mp3://soundcloud.com/officialcondukta/condukta-red/download
+The Drop (MUST DIE! Remix)
+Bro Safari
+mp3://soundcloud.com/mustdiemusic/bro-safari-the-drop-must-die/download
+UnderWorld
+Heat Maxwell
+http://www.youtube.com/watch?v=m354Mv4LaHM
+Onvang
+Spag Heddy
+mp3://soundcloud.com/dubstep/spag-heddy-onvang-edmcom-exclusive/download
+Like A Boss (Barely Alive Remix)
+Eptic
+http://www.youtube.com/watch?v=ULB629dWEm4
+Flutterbye
+Stabby
+mp3://soundcloud.com/dubstep/stabby-flutterbye-edmcom-exclusive/download
+Time Will Tell ft. Jova Radevska (M4D5 Remix)
+Danny Darko
+http://www.youtube.com/watch?v=ZPdijITI1cw
+King Shit ft. T.I. (Kelly Dean Remix)
+Yo Gotti
+mp3://soundcloud.com/drop-the-bassline/yo-gotti-ft-ti-king-shit-kelly-dean-remix-free-download/download
+WE COMIN Feat Mac TurnUp
+Heroes x Villains
+mp3://soundcloud.com/heroesxvillains/hxv-we-comin-feat-mac-turnup-free-dwnld/download
+Automatik (Bear Grillz Remix)
+Datsik
+mp3://soundcloud.com/dubstep/datsik-automatik-bear-grillz-remix/download
+Revolusion (Champagne Drip Remix)
+Elliphant
+https://soundcloud.com/champagnedrip/elliphant-revolusion-champagne-drip-remix
+Wild
+Snails & Antiserum
+http://www.youtube.com/watch?v=H3cxPCqdYoU
+Hyperion
+Dubscribe
+mp3://soundcloud.com/drumandbass/dubscribe-hyperion/download
+Run (VIP Mix)
+Secoya
+http://www.youtube.com/watch?v=VYiDIYrVKbM
+In My Dreams ft. Tina V
+Numan Paul
+http://www.youtube.com/watch?v=W1ryAMPS78s
+Moving On (ft. EMEL)
+Stonebank
+http://www.youtube.com/watch?v=TmAbiDfoQVY
+I Want You (EH!DE Remix)
+Bad Catholics & Dec3mber
+mp3://soundcloud.com/dubstep/bad-catholics-dec3mber-i-want-you-ehde-remix-edmcom-premiere/download
+Never Alone ft. Natascha Bessez (Ruxell Remix)
+DJ Chachi
+http://www.youtube.com/watch?v=Yp15ZMwjbAE
+Moving In Time ft. MUST DIE! & Mariana Bell
+Le Castle Vania
+http://www.youtube.com/watch?v=3TylvcXIIM8
+Flipside (Illenium Remix)
+Lana Del Rey
+http://www.youtube.com/watch?v=T04ETD3tswI
+Vulnerable (Dave Luxe Remix)
+Tinashe
+http://www.youtube.com/watch?v=kjoiPO_o2mo
+Stay Where You Are ft. Nikki B
+Phrenik
+http://www.youtube.com/watch?v=Z9YJvH0O2SM
+Somewhere Up Here (Dead Robot Bootleg)
+Deadmau5
+mp3://soundcloud.com/deadrobotmusic/somewhere-up-here-bootleg/download
+# title image(s)
+
+
+res://cloud-4.steampowered.com/ugc/40847606143115560/067529DC1BCC45E678A69CA5D60FA344A61057D0/
+# end tag
+END
