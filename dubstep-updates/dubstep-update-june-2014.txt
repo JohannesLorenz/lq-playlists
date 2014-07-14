@@ -105,6 +105,6 @@ mp3://soundcloud.com/deadrobotmusic/somewhere-up-here-bootleg/download
 # title image(s)
 
 
-res://cloud-4.steampowered.com/ugc/40847606143115560/067529DC1BCC45E678A69CA5D60FA344A61057D0/
+res://cloud-4.steampowered.com/ugc/40847606170649818/2CFD39B7F8CEA4F838BE695E854120EEBFF0A90F/
 # end tag
 END
