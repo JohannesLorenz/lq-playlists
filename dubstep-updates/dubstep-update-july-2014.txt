@@ -1,0 +1,104 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_july_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Jah Knows (Architekt Remix)
+Reefd
+mp3://soundcloud.com/drumstep/reefd-jah-knows-architekt-remix-edmcom-exclusive/download
+Jungle
+The Brig
+https://www.youtube.com/watch?v=ebnMNsFUB8M
+Aspiration (EH!DE Remix)
+Blaze
+https://www.youtube.com/watch?v=NwQF_x0HrFA
+Boom Clap (Elk Road Remix)
+Charli XCX
+https://www.youtube.com/watch?v=jLp0OHkCPKs
+Let Go ft. Alexandra (SirensCeol Remix)
+Venemy
+https://www.youtube.com/watch?v=r7k-ODdctN4
+Champions (Volant Remix)
+Astronaut
+https://www.youtube.com/watch?v=xQM7SEUG8ro
+Click Clvck VIP
+LUMBERJVCK
+https://soundcloud.com/lumberjvck/click-clvck-vip-edmcom-exclusive
+Hospital (Havok Roth Remix)
+Secoya
+https://www.youtube.com/watch?v=QoUY4DgDEZs
+I Want U (GANZ Flip)
+Alison Wonderland
+https://soundcloud.com/alisonwonderland/iwantyou-ganzflip-cdm
+A Dream To Influence Mankind ft. Christine Tsernikova
+Phaera
+https://www.youtube.com/watch?v=7PY_EDtG73Y
+Te Iria a Buscar (Instrumental Mix)
+DatPhoria
+https://soundcloud.com/datphoria/datphoria-te-iria-a-buscar-instrumental-mix
+Probe
+Document One
+https://www.youtube.com/watch?v=fRB3Ij5ANDQ
+The Machine
+Fanway
+https://www.youtube.com/watch?v=kXrtjiGJ8Ms
+Falling In ft. Mimi Page
+Illenium & Said The Sky
+https://www.youtube.com/watch?v=357qKDPRSJY
+Deafening
+Plunkie & VolkStroker
+mp3://soundcloud.com/dubstep/plunkie-volkstroker-deafening-edmcom-exclusive/download
+Rachet
+K Theory
+mp3://soundcloud.com/ktheory/rachet/download
+Hospital
+Secoya
+https://www.youtube.com/watch?v=tuR6pHi_Lo8
+Mutated (Condukta Remix)
+OmegaMode
+https://soundcloud.com/officialcondukta/omegamode-mutated-condukta
+Twisted
+Condukta
+mp3://soundcloud.com/glitchhop/condukta-twisted-edmcom-exclusive/download
+Feel This
+Rudebrat
+https://www.youtube.com/watch?v=sWyjlYoyqTM
+Demons ft. Gia Margaret
+Dabin
+mp3://soundcloud.com/dubstep/dabin-demons-edmcom-exclusive/download
+Sell Your Soul ft. Jeff Sontag
+Barely Alive
+https://www.youtube.com/watch?v=dpZXIyw49W8
+Love Me Hate Me (Kevin Drew Remix)
+Ariana & the Rose
+https://www.youtube.com/watch?v=Tsx5cyja4c8
+Edible Universe
+At Dawn We Rage
+mp3://soundcloud.com/atdawnwerage/edibleuniverse/download
+Banks - Goddess (At Dawn We Rage Re-Work)
+At Dawn We Rage
+https://soundcloud.com/atdawnwerage/banksrework
+Prepare For Battle
+Myles Travitz
+mp3://soundcloud.com/drumandbass/myles-travitz-prepare-for-battle/download
+Turn That Bass Down
+Zetich
+mp3://soundcloud.com/dubstep/zetich-turn-that-bass-down-edmcom-exclusive/download
+# title image(s)
+
+
+res://cloud-4.steampowered.com/ugc/29590272646482110/92373AC525EA1CE2044F442BFC9D1DF5E31C726B/
+# end tag
+END
