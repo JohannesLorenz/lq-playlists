@@ -1,0 +1,119 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_august_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Nuclear (Album Version) [Thissongissick.com Exclusive Premiere]
+Zomboy
+https://www.youtube.com/watch?v=mqes3ROaneE
+Reach
+Codeko
+https://www.youtube.com/watch?v=s4fVmT6uFtk
+My Race
+DatPhoria
+https://www.youtube.com/watch?v=3NvRnwjkqkc
+On That Day (feat. ElDiablo, Flint & Zadik)
+Desmeon
+https://www.youtube.com/watch?v=PUpS-ZrrZnU
+Shadow
+Funxion
+mp3://soundcloud.com/drumstep/funxion-shadow/download
+Habits Of My Heart (Elk Road Remix)
+Jaymes Young
+https://www.youtube.com/watch?v=1yynWpS4uTA
+Broken Trust
+Rameses B
+https://www.youtube.com/watch?v=SzycPN9-P14
+Girl (Secret Panda Society Remix)
+MAGNETIE
+https://www.youtube.com/watch?v=Gqo7Fb97PZg
+Whos That Lately ft. Shaka Lish (Michael White Remix) [EDM.com Premiere]
+Annuki & Jedi Bonker
+https://www.youtube.com/watch?v=f2K8G_x7vQw
+Playing With Gold [OUT NOW ON FIREPOWER]
+Protohype feat. Duelle
+https://www.youtube.com/watch?v=5qsMcvp0IhI
+If I Could Freeze Time (EH!DE Remix)
+MonstersWithTinyMustaches
+https://www.youtube.com/watch?v=qQtYIjsMYPY
+Rasstrap
+Neoh
+https://www.youtube.com/watch?v=Iai5JCkKZRE
+Ridiculous (Oiki Remix) [EDM.com Exclusive]
+Dope DOD
+https://www.youtube.com/watch?v=c18UEepht1E
+Wake Me Up ft. Lime Kid (The Jackass Remix) [EDM.com Premiere]
+Fademan & Oleg K
+https://www.youtube.com/watch?v=XBqYajeO-xA
+Pandemonium
+DotEXE
+https://www.youtube.com/watch?v=jy6EZgpypJk
+Chroma
+Montee
+mp3://soundcloud.com/drumandbass/montee-chroma/download
+Jarvis & Bone N Skin
+Insomniacs
+mp3://soundcloud.com/drumstep/jarvis-bone-n-skin-insomniacs/download
+Flashlight (Ft. Ellie Goulding) (Metrik Remix)
+DJ Fresh
+https://www.youtube.com/watch?v=C7Wp5WEXhrQ
+Encore ft. Ras [EDM.com Premiere]
+Protohype
+https://www.youtube.com/watch?v=rh86hc7RjHc
+Drop Girl ft. Redfoo & 2 Chainz (ƱZ Remix) [EDM.com Exclusive]
+Ice Cube
+mp3://soundcloud.com/edm/ice-cube-drop-girl-ft-redfoo-2-chainz-z-remix-edmcom-exclusive/download
+Soilwork VIP
+Jarvis
+https://www.youtube.com/watch?v=2BFXeydGZoA
+The Final Five (NumberNin6 VIP)
+NumberNin6 & Zardonic
+mp3://soundcloud.com/dubstep/numbernin6-zardonic-the-final-five-numbernin6-vip/download
+Unmissable (Metrik Remix)
+Gorgon City
+https://www.youtube.com/watch?v=OTG4snDvS6k
+Breakdown VIP
+Noisestorm
+https://www.youtube.com/watch?v=wqZ5iLOUOGA
+Gold (Twofold Remix)
+Adventure Club Ft. Yuna
+https://www.youtube.com/watch?v=vdZKCpcjgMA
+Inspire ft. Farewell Luna (Jai Wolf Remix) [EDM.com Premiere]
+Gazzo
+https://www.youtube.com/watch?v=JSMqgfU8qfw
+Wait (Elephante Remix) [Thissongissick.com Premiere] [Free Download]
+Lemaitre
+mp3://dl.soundowl.com/78ex.mp3
+Were Not Alone (Au5 Remix)
+Virtual Riot
+https://www.youtube.com/watch?v=Sq6MZ0wnxz4
+Dont Stop [EDM.com Exclusive]
+Teminite
+https://www.youtube.com/watch?v=nKRuDZCrhVg
+Falling Apart II ft. Grimm
+Xilent
+https://www.youtube.com/watch?v=mSldObHftw8
+The Answer ft. Katie Sky (At Dawn We Rage Remix)
+K Theory
+https://www.youtube.com/watch?v=GvlP0mJLeNg
+Ocean Of Sound ft. Ingrid Lukas [EDM.com Premiere]
+Task Horizon
+https://www.youtube.com/watch?v=crG8vBam4r8
+# title image(s)
+
+
+res://(link goes here)
+# end tag
+END
