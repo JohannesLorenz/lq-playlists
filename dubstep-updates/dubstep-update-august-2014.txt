@@ -114,6 +114,9 @@ https://www.youtube.com/watch?v=crG8vBam4r8
 # title image(s)
 
 
-res://(link goes here)
+res://cloud-4.steampowered.com/ugc/28468087912036108/C3A875590CCDBEAAB8B48A4DB598009D9D3799C5/
+
+
+res://cloud-4.steampowered.com/ugc/28468087912047313/59972955C83CF6A6A1FA103B1B7D2F0FE8BD51FA/
 # end tag
 END
