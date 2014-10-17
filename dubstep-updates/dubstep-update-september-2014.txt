@@ -1,0 +1,86 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_september_2014
+2014
+Dubstep
+# tracklist (song, artist, album each)
+Tweet (EH!DE Remix)
+Carl G & Marshmallows
+http://www.youtube.com/watch?v=P25gtoPaE_8
+Pinball (Bear Grillz Remix)
+Astronaut & EYES
+http://www.youtube.com/watch?v=8eLYAFDN54Q
+Welcome To The Real World ft. Diamond Eyes (Ray Volpe Remix)
+Barely Alive
+http://www.youtube.com/watch?v=BEykSXfuPyk
+Space City
+Cynematic
+https://soundcloud.com/drumandbass/cynematic-space-city
+Closer
+Hugh Hardie
+https://soundcloud.com/drumandbass/hugh-hardie-closer-edmcom-premiere
+Feathers
+MUST DIE!
+https://soundcloud.com/mustdiemusic/06-feathers
+We Are Not Alone (PhaseOne Remix)
+Virtual Riot
+https://www.youtube.com/watch?v=lm0VzWkSPQk
+Aura (Melvv Bootleg)
+Stwo
+http://www.youtube.com/watch?v=7YjO9lA_w6g
+Lets Ride (SNBRN Remix)
+The Game
+http://www.youtube.com/watch?v=asM__cEWAOM
+MAKE MY MIND UP ft. Omari Shakir
+FATMANKEY
+https://soundcloud.com/fatmankey/01-make-my-mind-up-ft-omari
+Cat & Mouse
+Dodge & Fuski
+http://www.youtube.com/watch?v=jt0e_w8PhyU
+Flashpoint
+Tarro
+http://www.youtube.com/watch?v=goHXrSycFmI
+Dark Master
+VMP & QUEST!
+mp3://soundcloud.com/dubstep/vmp-quest-dark-master/download
+Habits Of My Heart (Sharkoffs Remix)
+Jaymes Young
+https://www.youtube.com/watch?v=wJNPlel7LDI
+Ghost Assassin VIP ft. Veela
+Maduk
+mp3://soundcloud.com/madukdnb/maduk-ft-veela-ghost-assassin-vip/download
+Pretty Fly For A White Guy (Matt Zanardos Anthem Remix)
+The Offspring
+http://www.youtube.com/watch?v=vnerykgPCA0
+Snowblind ft. Tasha Baxter
+Au5
+http://www.youtube.com/watch?v=Q_nZbzsdNkc
+Falling Apart ft. Grimm (Rameses B Remix)
+Xilent
+https://www.youtube.com/watch?v=fBb1Yegjrws
+Demake
+City 17
+https://www.youtube.com/watch?v=NaKgDmwVEoA
+Catalyst
+Introstalge
+mp3://soundcloud.com/dubstep/introstalge-catalyst/download
+Fall A Thousand Times ft. Ashley Apollodor
+Crystal Skies
+http://www.youtube.com/watch?v=q_-mlPhDm1s
+# title image(s)
+
+
+res://cloud-4.steampowered.com/ugc/28471257418148354/47C01843B082EE24761D865993B4D35DB455C0A9/
+# end tag
+END
