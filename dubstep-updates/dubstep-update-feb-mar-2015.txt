@@ -1,0 +1,113 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_august_2016
+2016
+Dubstep
+# tracklist (song, artist, URL each)
+The Vision (Original Mix)
+SPL
+https://www.youtube.com/watch?v=gXGOtjDsd4k
+Bottle Of Rum
+The Brig
+https://www.youtube.com/watch?v=WPvkgZEwuto
+Just Another Day
+The Brig
+https://www.youtube.com/watch?v=Zd3MvQQhQHw
+Mountains ft. Veela
+Rameses B
+
+We Could Be Heaven (Bad Catholics Remix)
+SLDGHMR & Crywolf
+
+Burn
+LusiD
+https://soundcloud.com/type91/lusid-burn
+Coldstore
+Myrne
+https://soundcloud.com/type91/myrne-coldstore
+Lying Awake (Radio Edit)
+Catstuff & Victoria Shersick
+
+405
+SirensCeol x Aloma Steele x Alexa Lusader
+
+Go Away ft. Charlie Vox (Posij Remix)
+Infuze
+
+You & Me
+Kronology
+https://www.youtube.com/watch?v=Pi8zo4iSS0Y
+Triple Threat
+Eliminate, INF1N1TE & Nato Feelz
+
+Luminescence
+Nitrix
+
+Monster feat. Alina Renae (Ben Woolsey Remix)
+Milk N Cookies
+
+Different World
+Virtual Riot
+
+Rejection
+AK
+https://soundcloud.com/drumandbass/ak-rejection
+Looking Glass
+Saturn
+https://www.youtube.com/watch?v=2_gSB6oNHzU
+Make You Wet (Dec3mber Remix)
+Deprator
+
+Wahi Andure (iClown's Drumstep Remix)
+Ranidu
+https://soundcloud.com/type91/ranidu-wahi-andure-iclowns
+Trust Me ft. SevenEver
+oneBYone
+
+Ease My Soul ft. Charlotte Haining
+Trivecta
+
+Flight ft. Shaz Sparks (Serobliss Remix)
+Embrace One
+
+All I Know
+Trowa
+
+Say Hello feat. Lina (Deep Dish Cover)
+Matvey Emerson
+
+Monster (Totally Normal Remix)
+Milk N Cookies
+
+Billy Badass ft. Foster
+Dr. Ozi
+https://www.youtube.com/watch?v=mIStx-9lhds
+Sail Away (Oliverse Remix)
+Koo
+
+Rainfall
+Echos & Nightcall
+
+With You
+Rameses B
+https://soundcloud.com/ramesesb/rameses-b-with-you-free
+# title image(s)
+
+
+res://cloud-4.steampowered.com/ugc/.../
+
+
+res://cloud-4.steampowered.com/ugc/.../
+# end tag
+END
