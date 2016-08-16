@@ -15,9 +15,6 @@ dubstep_best_of_august_2016
 2016
 Dubstep
 # tracklist (song, artist, URL each)
-The Vision (Original Mix)
-SPL
-https://www.youtube.com/watch?v=gXGOtjDsd4k
 Bottle Of Rum
 The Brig
 https://www.youtube.com/watch?v=WPvkgZEwuto
@@ -105,9 +102,6 @@ https://soundcloud.com/ramesesb/rameses-b-with-you-free
 # title image(s)
 
 
-res://cloud-4.steampowered.com/ugc/.../
-
-
-res://cloud-4.steampowered.com/ugc/.../
+http://images.akamai.steamusercontent.com/ugc/1623931883376886750/945988740A950D7626B2C63C8B6CBE1C56269A27/
 # end tag
 END
