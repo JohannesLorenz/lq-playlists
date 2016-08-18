@@ -11,8 +11,8 @@
 #   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
 #
 # meta: filename, year, genre
-dubstep_best_of_august_2016
-2016
+dubstep_best_of_feb_mar_2015
+2015
 Dubstep
 # tracklist (song, artist, URL each)
 Bottle Of Rum
@@ -23,10 +23,10 @@ The Brig
 https://www.youtube.com/watch?v=Zd3MvQQhQHw
 Mountains ft. Veela
 Rameses B
-
+https://soundcloud.com/ramesesb/rameses-b-ft-veela-mountains
 We Could Be Heaven (Bad Catholics Remix)
 SLDGHMR & Crywolf
-
+https://www.youtube.com/watch?v=zNQXsdqwcoM
 Burn
 LusiD
 https://soundcloud.com/type91/lusid-burn
@@ -35,28 +35,28 @@ Myrne
 https://soundcloud.com/type91/myrne-coldstore
 Lying Awake (Radio Edit)
 Catstuff & Victoria Shersick
-
+https://soundcloud.com/type91/catstuff-victoria-shersick-lying-awake-radio-edit-edmcom-exclusive
 405
 SirensCeol x Aloma Steele x Alexa Lusader
-
+https://soundcloud.com/dubstep/sirensceol-x-aloma-steele-x
 Go Away ft. Charlie Vox (Posij Remix)
 Infuze
-
+https://soundcloud.com/drumandbass/infuze-go-away-ft-charlie-vox-posij-remix
 You & Me
 Kronology
 https://www.youtube.com/watch?v=Pi8zo4iSS0Y
 Triple Threat
 Eliminate, INF1N1TE & Nato Feelz
-
+https://www.youtube.com/watch?v=PxA_n3xgLzQ
 Luminescence
 Nitrix
-
+https://soundcloud.com/dubstep/nitrix-luminescence
 Monster feat. Alina Renae (Ben Woolsey Remix)
 Milk N Cookies
-
+https://soundcloud.com/bwoolsey/milk-n-cookies-feat-alina-renae-monster-ben-woolsey-remixfree-download
 Different World
 Virtual Riot
-
+https://www.youtube.com/watch?v=iLtFKkz1KtQ
 Rejection
 AK
 https://soundcloud.com/drumandbass/ak-rejection
@@ -65,43 +65,43 @@ Saturn
 https://www.youtube.com/watch?v=2_gSB6oNHzU
 Make You Wet (Dec3mber Remix)
 Deprator
-
-Wahi Andure (iClown's Drumstep Remix)
+https://soundcloud.com/deprator-dec3mber/make-you-wet-dec3mber-remix
+Wahi Andure (iClowns Drumstep Remix)
 Ranidu
 https://soundcloud.com/type91/ranidu-wahi-andure-iclowns
 Trust Me ft. SevenEver
 oneBYone
-
+https://www.youtube.com/watch?v=HFYA-Ge-CL0
 Ease My Soul ft. Charlotte Haining
 Trivecta
-
+https://www.youtube.com/watch?v=uJu0ikP5nhI
 Flight ft. Shaz Sparks (Serobliss Remix)
 Embrace One
-
+https://soundcloud.com/serobliss/embrace-one-ft-shaz-sparks-flight-serobliss-remix
 All I Know
 Trowa
-
+https://www.youtube.com/watch?v=gG9WXY7ybPE
 Say Hello feat. Lina (Deep Dish Cover)
 Matvey Emerson
-
+https://soundcloud.com/matveyemerson/matvey-emerson-feat-lina-say-hello-deep-dish-cover-free-download
 Monster (Totally Normal Remix)
 Milk N Cookies
-
+https://soundcloud.com/totallynormal/monster-totally-normal-remix
 Billy Badass ft. Foster
 Dr. Ozi
 https://www.youtube.com/watch?v=mIStx-9lhds
 Sail Away (Oliverse Remix)
 Koo
-
+https://soundcloud.com/dubstep/koo-sail-away-oliverse-remix
 Rainfall
 Echos & Nightcall
-
+https://www.youtube.com/watch?v=DIcqbExQjjk
 With You
 Rameses B
 https://soundcloud.com/ramesesb/rameses-b-with-you-free
 # title image(s)
 
 
-http://images.akamai.steamusercontent.com/ugc/1623931883376886750/945988740A950D7626B2C63C8B6CBE1C56269A27/
+res://images.akamai.steamusercontent.com/ugc/1623931883376886750/945988740A950D7626B2C63C8B6CBE1C56269A27/
 # end tag
 END
