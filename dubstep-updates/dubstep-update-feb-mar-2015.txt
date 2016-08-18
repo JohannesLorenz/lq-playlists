@@ -11,8 +11,8 @@
 #   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
 #
 # meta: filename, year, genre
-dubstep_best_of_august_2016
-2016
+dubstep_best_of_feb_mar_2015
+2015
 Dubstep
 # tracklist (song, artist, URL each)
 Bottle Of Rum
