@@ -1,0 +1,174 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_august_2016
+Dubstep
+# tracklist (song, artist, URL each)
+Summer
+Marshmello
+
+CHEMICAL (ft. Five Knives)
+Xilent
+
+Nuclear (Dillon Francis Remix)
+Zomboy
+
+# Manual download:
+Flight Mode
+Tryple & Sex Whales
+https://www.youtube.com/watch?v=28lzWLeRJQA
+Katatonia (Dirty Zblu Remix)
+Castor Troy
+
+Horror Story ft. Elizaveta
+Our Time
+
+Shooting Stars
+Dec3mber & Tryple
+https://www.youtube.com/watch?v=eJsu1QwLbGo
+Hyperreality (Teminite Remix)
+Dec3mber & EH!DE
+
+Abducted Cowboy ft. Lokka Vox (Tucker Kreway Remix)
+I.Y.F.F.E
+https://www.youtube.com/watch?v=lDNMqsi91Lk
+Houston
+Cyran
+
+By Your Side
+Ray Volpe
+
+Game Time (Barely Alive Remix)
+Zomboy
+
+Round The World
+The Brig
+https://www.youtube.com/watch?v=4PAcJJRHx_g
+Impressive (Dec3mber Remix)
+Squnto & Lord Swan3x - Impressive
+
+Energy
+ESQ!
+
+Fairytaler
+F.O.O.L
+https://www.youtube.com/watch?v=4xAvO4IdKfk
+Fallen
+SIDEPROJECT
+
+Get Up
+Dilemn
+https://www.youtube.com/watch?v=ZYAGeTDDfl0
+Erase Me (KJ Sawka Remix)
+Super Square
+
+Way Too Deep
+Grabbitz
+
+BeatDown
+Phantom Sage
+
+Digital (BAR9 Remix)
+Megalodon
+https://soundcloud.com/dubstep/megalodon-digital-bar9-remix
+Faint
+Northern Zone
+
+Snowblind ft. Tasha Baxter (Heavy J Remix)
+Au5
+https://soundcloud.com/heavy_j/au5-feat-tasha-baxter-snowblind-heavy-j-remix
+Flashlight
+EH!DE
+https://soundcloud.com/type91/eh-de-flashlight-premiere
+Wildfire (Croozader Remix)
+KJ Sawka
+
+Rupture (VIP)
+Phantom Sage
+
+Trophies
+GANZ
+
+Mega Gun
+Getter & MUST DIE!
+
+Dem A Fraud ft. KG Man
+The Brig
+
+Ruff Rude Boys ft. Infamous Steez
+Bass Farmers
+https://www.youtube.com/watch?v=Eu5UR8tuZOE
+4 AM (JayKode Remix)
+Kaskade x Adam K x Soha
+
+Round The World (AB THE THIEF Remix)
+The Brig
+https://soundcloud.com/trapmusic/the-brig-round-the-world-ab
+Puppet
+The Brig
+https://www.youtube.com/watch?v=-4TtAoo1F6M
+The Machine
+Rob Gasser
+
+Jazz Cat Funk (Terravita Remix)
+RIOT
+
+# Manual download:
+Gud Vibrations (Sullivan King Remix)
+NGHTMRE & SLANDER
+https://soundcloud.com/dubstep/nghtmre-slander-gud-vibrations
+Resurrected
+Zomboy
+
+Adrenaline
+Lacerta
+
+Nostradamus
+Walter Wilde
+
+Make It
+Mendum
+
+Snowblind ft. Tasha Baxter (Fractal Remix)
+Au5
+https://www.youtube.com/watch?v=0Gpg1FYzBGY
+Yoshi
+Tinlicker
+
+Hurricane (TJANI Remix)
+Halsey
+
+Nangirri
+Yeah Nah
+https://soundcloud.com/nickraymondg/yeah-nah-nangirri-free-download
+Run (Majesto Remix)
+Alison Wonderland
+https://www.youtube.com/watch?v=HPFZezzuOvo
+Void ft. Ashley Apollodor
+Sleazee
+https://www.youtube.com/watch?v=cvJX5JJ0c9A
+I Can't Get Out
+Sex Whales
+
+SHADOW OF YOU
+Xilent
+
+U Don't Know (Just A Gent Remix)
+Alison Wonderland
+https://soundcloud.com/just-a-gent/alison-wonderland-u-dont-know-just-a-gent-remix
+# title image(s)
+
+# TODO: still missing!
+res://cloud-4.steampowered.com/ugc/28468087912036108/C3A875590CCDBEAAB8B48A4DB598009D9D3799C5/
+# end tag
+END
