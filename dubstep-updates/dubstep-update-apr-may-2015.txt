@@ -158,18 +158,18 @@ https://www.youtube.com/watch?v=HPFZezzuOvo
 Void ft. Ashley Apollodor
 Sleazee
 https://www.youtube.com/watch?v=cvJX5JJ0c9A
-I Can't Get Out
+I Cant Get Out
 Sex Whales
 https://www.youtube.com/watch?v=mch3YXHhWNc
 SHADOW OF YOU
 Xilent
 https://soundcloud.com/essential_music/xilent-shadow-of-you-edm-com
-U Don't Know (Just A Gent Remix)
+U Dont Know (Just A Gent Remix)
 Alison Wonderland
 https://soundcloud.com/just-a-gent/alison-wonderland-u-dont-know-just-a-gent-remix
 # title image(s)
 
-# TODO: still missing!
-res://cloud-4.steampowered.com/ugc/28468087912036108/C3A875590CCDBEAAB8B48A4DB598009D9D3799C5/
+
+res://images.akamai.steamusercontent.com/ugc/203053761725011086/F4D7D3B4C9D9F588F1668229D2B9CBEF456F336B/
 # end tag
 END
