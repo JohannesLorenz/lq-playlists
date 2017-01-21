@@ -1,0 +1,145 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_august_2016
+2016
+Dubstep
+# tracklist (song, artist, URL each)
+# manual download
+Bloom (w/ shinigami)
+Kaizen
+https://soundcloud.com/imkaizen/bloom
+# manual download
+Our Journey (ft. Ashley Apollodor)
+Crystal Skies
+https://soundcloud.com/newdawncollective/crystal-skies-our-journey-ft-ashley-apollodor?in=crystalskies/sets/crystal-skies-our-journey-ft
+# manual
+Tim Gunter ? XYLØ - Afterlife (Tim Gunter Remix)
+https://soundcloud.com/timgunter/afterliferemix
+Undone (ft. Steklo)
+Desmeon
+https://soundcloud.com/nocopyrightsounds/desmeon-undone-feat-steklo-ncs-release
+Final Words
+DatPhoria X Elegant Pumpkin
+https://soundcloud.com/datphoria/datphoria-x-elegant-pumpkin-final-words-original-mix?in=dubstep-updates/sets/dubstep-update-august
+Elemental ft. Anna Yvette
+Bare Noize & AFK
+https://www.youtube.com/watch?v=3zZnoZ2w9fw
+PHAZON
+BLOOD CODE
+https://www.youtube.com/watch?v=dppnJGCRQBM
+# manual download
+Can't Get Enough
+Lookas
+https://soundcloud.com/lookasmusic/cant-get-enough
+Light You Up
+Crissy Criss & WiDE AWAKE
+https://soundcloud.com/drumandbass/crissy-criss-wide-awake-light-you-up-premiere/s-ZOTM1?in=dubstep-updates/sets/dubstep-update-august
+Sweet Dreams (T-Mass Remix)
+Andra ft. Mara
+
+Savage
+Paul Flint
+https://www.youtube.com/watch?v=8uSx3DyJjk0
+Any Longer
+Au5 ft. Q'AILA
+
+Playa
+Myro
+
+Upper (ft. KARRA)
+EXSSV
+
+Stressed Out (Botnek Remix)
+Twenty One Pilots
+
+# manual download
+Street Kingz
+CasueL & Philly Blunt
+https://soundcloud.com/wearepantheon/casuel-philly-blunt-street-kingz
+# manual download
+Hallucinating ft. Molly Moore
+BLU J x INDIGINIS
+https://soundcloud.com/blujmusic/blu-j-x-indiginis-ft-molly-moore-hallucinating
+Wide Awake
+Speaker Of The House
+https://www.youtube.com/watch?v=cuEquFBEAM8
+Hit Rewind
+Au5 ft. Q'AILA
+
+Final Song (Venemy Remix)
+MO
+
+Superstar (SAM F Remix)
+Pegboard Nerds & NGHTMRE Ft. Krewella
+
+# manual download
+Pokemon Ü (ft. Broderick Jones)
+it's different
+https://soundcloud.com/itsdifferent/pokemonu
+# manual download
+Fame ft. Joel
+DeBoer
+https://soundcloud.com/deboer/fame-feat-joel
+Quicksand (Spirix Remix)
+Feenixpawl & APEK
+https://www.youtube.com/watch?v=VeUDto9z0js
+Open Eyes (MaHi Remix)
+Adara
+
+# manual downlload
+Revolution
+MadMikey & Trekter
+https://soundcloud.com/officialmadmikey/madmikey-trekter-revolution
+Broccoli ft. Lil Yachty (BUSTED by Herobust)
+D.R.A.M.
+https://www.youtube.com/watch?v=Yyw7YnF8nDE
+Mind (Slander Remix)
+Jack Ü
+
+Away (ft. Byndy)
+Phantom Sage
+
+Panic
+Dion Timmer
+
+Feel Like Horrible
+Different Heaven & Sian Area
+
+Kill Me
+Xilent
+
+Love Us
+DatPhoria X Spag Heddy
+
+Cold As Ice
+DANK Ft. Jimmy St. James
+
+Summer
+Twofold
+https://soundcloud.com/twofold/summer
+Getaway ft. Angel Taylor (Koven Remix)
+Tritonal
+
+Like Minded ft. Ashley Apollodor
+Beatcore & Mr. Welch
+https://soundcloud.com/ashleyapollodor/likeminded
+Terms & Conditions ft. Ashley Apollodor (Crystal Skies Remix)
+Color Source
+https://soundcloud.com/crystalskies/color-source-terms-conditions-crystal-skies-remix
+# title image(s)
+
+
+http://images.akamai.steamusercontent.com/ugc/103981389994965843/5C45D8C6530B8F8006BC877B4CE6412894A4B7D7/
+# end tag
+END
