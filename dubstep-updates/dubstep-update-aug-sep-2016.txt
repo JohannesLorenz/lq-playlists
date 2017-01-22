@@ -11,7 +11,7 @@
 #   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
 #
 # meta: filename, year, genre
-dubstep_best_of_august_2016
+dubstep_best_of_aug_sep_2016
 2016
 Dubstep
 # tracklist (song, artist, URL each)
@@ -22,16 +22,17 @@ https://soundcloud.com/imkaizen/bloom
 # manual download
 Our Journey (ft. Ashley Apollodor)
 Crystal Skies
-https://soundcloud.com/newdawncollective/crystal-skies-our-journey-ft-ashley-apollodor?in=crystalskies/sets/crystal-skies-our-journey-ft
+https://soundcloud.com/newdawncollective/crystal-skies-our-journey-ft-ashley-apollodor
 # manual
-Tim Gunter ? XYLØ - Afterlife (Tim Gunter Remix)
+Afterlife (Tim Gunter Remix)
+XYLO
 https://soundcloud.com/timgunter/afterliferemix
 Undone (ft. Steklo)
 Desmeon
 https://soundcloud.com/nocopyrightsounds/desmeon-undone-feat-steklo-ncs-release
 Final Words
 DatPhoria X Elegant Pumpkin
-https://soundcloud.com/datphoria/datphoria-x-elegant-pumpkin-final-words-original-mix?in=dubstep-updates/sets/dubstep-update-august
+https://soundcloud.com/datphoria/datphoria-x-elegant-pumpkin-final-words-original-mix
 Elemental ft. Anna Yvette
 Bare Noize & AFK
 https://www.youtube.com/watch?v=3zZnoZ2w9fw
@@ -39,30 +40,27 @@ PHAZON
 BLOOD CODE
 https://www.youtube.com/watch?v=dppnJGCRQBM
 # manual download
-Can't Get Enough
+Cant Get Enough
 Lookas
 https://soundcloud.com/lookasmusic/cant-get-enough
 Light You Up
 Crissy Criss & WiDE AWAKE
-https://soundcloud.com/drumandbass/crissy-criss-wide-awake-light-you-up-premiere/s-ZOTM1?in=dubstep-updates/sets/dubstep-update-august
+https://soundcloud.com/drumandbass/crissy-criss-wide-awake-light-you-up-premiere/s-ZOTM1
 Sweet Dreams (T-Mass Remix)
 Andra ft. Mara
-
-Savage
-Paul Flint
-https://www.youtube.com/watch?v=8uSx3DyJjk0
+https://soundcloud.com/t-mass/andra-feat-mara-sweet-dreams-t-mass-remix
 Any Longer
-Au5 ft. Q'AILA
-
+Au5 ft. QAILA
+https://soundcloud.com/au5/au5-feat-qaila-any-longer
 Playa
 Myro
-
+https://soundcloud.com/myrodisciple/myro-playa
 Upper (ft. KARRA)
 EXSSV
-
+https://www.youtube.com/watch?v=OKL6XROL_w4
 Stressed Out (Botnek Remix)
 Twenty One Pilots
-
+https://www.youtube.com/watch?v=YkoATY0tVqI
 # manual download
 Street Kingz
 CasueL & Philly Blunt
@@ -75,17 +73,17 @@ Wide Awake
 Speaker Of The House
 https://www.youtube.com/watch?v=cuEquFBEAM8
 Hit Rewind
-Au5 ft. Q'AILA
-
+Au5 ft. QAILA
+https://www.youtube.com/watch?v=_nP5O3IoQl0
 Final Song (Venemy Remix)
 MO
-
+https://soundcloud.com/venemybootlegs/mo-final-song-venemy-remix
 Superstar (SAM F Remix)
 Pegboard Nerds & NGHTMRE Ft. Krewella
-
+https://soundcloud.com/djsamf/super-star-sam-f-remix
 # manual download
 Pokemon Ü (ft. Broderick Jones)
-it's different
+its different
 https://soundcloud.com/itsdifferent/pokemonu
 # manual download
 Fame ft. Joel
@@ -96,7 +94,7 @@ Feenixpawl & APEK
 https://www.youtube.com/watch?v=VeUDto9z0js
 Open Eyes (MaHi Remix)
 Adara
-
+https://soundcloud.com/themahiofficial/open-your-eyes-mahi-remix
 # manual downlload
 Revolution
 MadMikey & Trekter
@@ -105,32 +103,32 @@ Broccoli ft. Lil Yachty (BUSTED by Herobust)
 D.R.A.M.
 https://www.youtube.com/watch?v=Yyw7YnF8nDE
 Mind (Slander Remix)
-Jack Ü
-
+Jack U
+https://www.youtube.com/watch?v=FHyusN93veo
 Away (ft. Byndy)
 Phantom Sage
-
+https://soundcloud.com/nocopyrightsounds/phantom-sage-away-feat-byndy-ncs-release
 Panic
 Dion Timmer
-
+https://soundcloud.com/monstercat/dion-timmer-panic
 Feel Like Horrible
 Different Heaven & Sian Area
-
+https://soundcloud.com/nocopyrightsounds/different-heaven-feel-like-horrible-feat-sian-ncs-release
 Kill Me
 Xilent
-
+https://soundcloud.com/dubstep/xilent-kill-me
 Love Us
 DatPhoria X Spag Heddy
-
+https://soundcloud.com/datphoria/datphoria-x-spag-heddy-love-us
 Cold As Ice
 DANK Ft. Jimmy St. James
-
+https://soundcloud.com/dj-dank-music/dank-cold-as-ice-armada-1
 Summer
 Twofold
 https://soundcloud.com/twofold/summer
 Getaway ft. Angel Taylor (Koven Remix)
 Tritonal
-
+https://soundcloud.com/drumandbass/tritonal-getaway-ft-angel-taylor-koven-remix
 Like Minded ft. Ashley Apollodor
 Beatcore & Mr. Welch
 https://soundcloud.com/ashleyapollodor/likeminded
@@ -140,6 +138,6 @@ https://soundcloud.com/crystalskies/color-source-terms-conditions-crystal-skies-
 # title image(s)
 
 
-http://images.akamai.steamusercontent.com/ugc/103981389994965843/5C45D8C6530B8F8006BC877B4CE6412894A4B7D7/
+res://images.akamai.steamusercontent.com/ugc/103981389994965843/5C45D8C6530B8F8006BC877B4CE6412894A4B7D7/
 # end tag
 END
