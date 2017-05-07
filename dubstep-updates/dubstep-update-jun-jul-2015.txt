@@ -1,0 +1,132 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_jun_jul_2015
+2015
+Dubstep
+# tracklist (song, artist, URL each)
+I Can't Take It (Party Favor Remix)
+Dillon Francis
+
+Bigger Than Me Ft. Au5
+Tasha Baxter
+https://soundcloud.com/tashabaxtersa/bigger-than-me
+Time (Spag Heddy Remix)
+Helen Corry
+
+Liquid Star
+Montee
+
+How To Save A Life (Sex Whales & Tryple Remix)
+The Fray
+
+Love 4 You
+EH!DE
+https://soundcloud.com/type91/eh-de-love-4-you-premiere
+Edge Of Tomorrow (Tryple Remix)
+Skyloud
+
+Anonymous
+Dirtyphonics
+
+Feeling Stronger (ft. Charlotte Colley) (High Maintenance Remix)
+Muzzy
+
+Angel Fire ft Nathan Brumley (LUZCID Remix)
+Evilwave
+https://www.youtube.com/watch?v=6JwvGKYX4g8
+Cloudland
+Head Desk
+https://www.youtube.com/watch?v=hfx2fmeB-ck
+Stay Down
+Nimda
+https://soundcloud.com/type91/nimda-stay-down
+Stay ft. Drov3 Amar0
+Hattack
+https://soundcloud.com/dubstep/hattack-stay-ft-drov3-amar0-exclusive
+Let's Go Ft. Armanni Reign
+Protohype & Paper Diamond
+https://soundcloud.com/protohype/protohype-paper-diamond-lets-go-ft-armanni-reign
+Waiting For You
+High Performance
+
+Book Of Us (ft. Mothica)
+Said The Sky
+
+Imprint (K Theory Remix)
+Must Die!
+https://soundcloud.com/ktheory/imprint
+Head In The Clouds
+Dec3mber
+
+Into My Eyes
+Mr. Welch
+https://www.youtube.com/watch?v=nZBUVTkPRY0
+The Cave
+JKuch
+https://soundcloud.com/dubstep/jkuch-the-cave-exclusive
+Time ft. Ivy Jay
+RoughMath & Jarvis
+https://www.youtube.com/watch?v=Wr_SW94AKTw
+Incandescent
+Dec3mber
+
+Quasar ft. Laura Leaves
+Piece of Meat
+https://soundcloud.com/type91/piece-of-meat-quasar-laura-leaves
+# Manual download:
+QT
+Protohype
+https://soundcloud.com/protohype/qt-free-download
+Bruk Bruk (I Need Your Lovin)
+Dillon Francis
+https://soundcloud.com/dillonfrancis/dillon-francis-bruk-bruk-i-need-your-lovin
+Mama
+Jinco
+https://www.youtube.com/watch?v=xyZn87j5uJU
+Painted White ft. Cristina Soto (Au5 & Fractal Remix)
+Said The Sky & Illenium
+
+Hurricane (Halogen Remix)
+Misterwives
+
+Cold Rock A Party (Dossa & Locuzzed 2016 Remix)
+Dope Ammo & Tali
+https://soundcloud.com/drumandbass/dope-ammo-tali-cold-rock-a-party-dossa-locuzzed-remix-premiere
+Swamp Thing
+Pegboard Nerds
+
+Superfreak
+DR. FRESCH
+
+Brave (ft. Ill-esha)
+SteLouse
+https://soundcloud.com/tasteandtone/stelouse-brave-ft-ill-esha
+Fields Of Grey (Au5 Remix)
+Infected Mushroom
+https://soundcloud.com/au5/infected-mushroom-fields-of-grey-au5-remix
+Lost Soul ft. Mona Moua
+West District
+https://soundcloud.com/dubstep/west-district-lost-soul-ft
+Be Together (ft. Wild Belle) (Vanic remix)
+Major Lazer
+
+Universe
+EH!DE
+https://soundcloud.com/type91/eh-de-universe-premiere
+# title image(s)
+
+
+res://steamuserimages-a.akamaihd.net/ugc/825693108966726172/349F982720E27A3706F2724B21DC82D1B4E7C616/
+# end tag
+END
