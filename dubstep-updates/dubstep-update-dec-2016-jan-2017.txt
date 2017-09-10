@@ -1,0 +1,95 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep_best_of_dec_2016_jan_2017
+2017
+Dubstep
+# tracklist (song, artist, URL each)
+# free download:
+Side To Side ft. Nicki Minaj (Omar Varela X MadRats Flip)
+Ariana Grande
+https://www.youtube.com/watch?v=WSkGwPQpYLE
+Shock Diamond ft. Christina Soto
+Au5
+
+Back In Time
+Y&V
+
+Reinvented Memories
+Phaera
+
+Rupture (OXEL Remix)
+Phantom Sage
+https://www.youtube.com/watch?v=B0rXLUz9xec
+# free download:
+Life Hack
+HIGHSOCIETY
+https://soundcloud.com/highsocietyofficial/life-hack
+Fahrenheit
+Reakt!on & Mr. Welch
+https://www.youtube.com/watch?v=jJ4-br8jJLY
+Spirit Of Things
+floatinurboat
+
+SuperHuman
+BlackGummy & Colleen DAgostino
+https://www.youtube.com/watch?v=wYbER_pZviQ
+Solar Eclipses ft. Dr. Awkward
+Hollywood Principle
+
+# free download:
+Luminous
+Mirandus
+https://soundcloud.com/mirandusmusic/mirandus-luminous
+2020 AD
+MUST DIE!
+https://www.youtube.com/watch?v=sr1Fr2ZVuPs
+# free download:
+Galactic Conquest (ZenStep Remix)
+Stabby
+https://soundcloud.com/zeneth-sc/stabby-galactic-conquest-zenstep-remix
+Ghost ft. Progley
+BH
+
+Higher Love (Extended Mix)
+Seven Lions & Jason Ross ft. Paul Meany
+
+# free download:
+Make Electro Great Again
+YULTRON
+https://soundcloud.com/yultron/make-electro-great-again-original-mix
+If I Lose Myself (Sttdms & Lazer Way Remix)
+OneRepublic
+
+Zomby Hunter ft. Afropose
+Music Predators
+
+I Found You
+James Egbert
+https://soundcloud.com/jamesegbert/james-egbert-i-found-you
+Save Me ft. Adara
+Adventure Club & Terravita
+https://www.youtube.com/watch?v=Mf8rP7c2l3M
+# free download:
+ID ft. Fang The Great (Juke Ellington Remix)
+Skan & ISOxo
+https://soundcloud.com/juke-ellington/skan-isoxo-id-feat-fang-the-great-juke-ellington-remix
+Far Sight (ft. Holly Jade)
+Jinco & WE ARE FURY
+
+# title image(s)
+
+
+res://TODO
+# end tag
+END
