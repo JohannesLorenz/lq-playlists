@@ -38,15 +38,9 @@ https://soundcloud.com/highsocietyofficial/life-hack
 Fahrenheit
 Reakt!on & Mr. Welch
 https://www.youtube.com/watch?v=jJ4-br8jJLY
-Spirit Of Things
-floatinurboat
-https://soundcloud.com/nocopyrightsounds/floatinurboat-spirit-of-things-ncs-release
 SuperHuman
 BlackGummy & Colleen DAgostino
 https://www.youtube.com/watch?v=wYbER_pZviQ
-Solar Eclipses ft. Dr. Awkward
-Hollywood Principle
-https://soundcloud.com/hollywood_principle/solar-eclipses-ft-dr-awkward-1
 # free download:
 Luminous
 Mirandus
@@ -74,9 +68,6 @@ https://www.youtube.com/watch?v=zbqUm7BknT4
 Zomby Hunter ft. Afropose
 Music Predators
 https://soundcloud.com/music-predators/music-predators-zomby-hunter-ft-afropose
-I Found You
-James Egbert
-https://soundcloud.com/jamesegbert/james-egbert-i-found-you
 Save Me ft. Adara
 Adventure Club & Terravita
 https://www.youtube.com/watch?v=Mf8rP7c2l3M
@@ -90,6 +81,9 @@ https://www.youtube.com/watch?v=3CROBfyyXFk
 # title image(s)
 
 
-res://TODO
+res://steamuserimages-a.akamaihd.net/ugc/875250731382365122/113B075AF1341839D5007DA317454F634561C48B/
+
+
+res://steamuserimages-a.akamaihd.net/ugc/875250731382339161/E38098F9C728E79DB9194E59A803E9FCE8A3F709/
 # end tag
 END
