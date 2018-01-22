@@ -1,0 +1,108 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-oct-nov-2016
+2016
+Dubstep
+# tracklist (song, artist, URL each)
+# free download:
+Arcade
+ColBreakz
+https://www.newgrounds.com/audio/listen/712348
+Electric Echo (ft. GUNSHIP)
+Metrik
+https://soundcloud.com/metrik/electric-echo-feat-gunship
+Declare The Truth (ft. Adriana)
+Bryson Price
+https://www.youtube.com/watch?v=FRwPKHGtZHw
+Overflow
+RAY VOLPE
+
+Supernatural (ft. Anjulie) (Lenny Official Remix)
+Boombox Cartel & Quix
+https://soundcloud.com/karl-guapo/boombox-cartel-quix-supernatural-lenny-official-remix
+OK!
+Jauz x San Holo
+https://soundcloud.com/monstercat/jauz-x-san-holo-ok
+Into The Universe (Original Mix)
+T0NIT0 RMX
+
+Lugano
+VillaNaranjos
+https://soundcloud.com/tracksfordays/villanaranjos-lugano
+Freefall ft. Cristina Soto
+Au5
+
+Telling Me
+Koven
+
+Dreams (TWO OWLS X Fransis Derelle Remix)
+Adventure Club ft. ELEA
+
+Come Back Home ft. Virginia Palms
+Ronzel & Arpyem
+
+Serendipity (Original Mix)
+BH
+
+Fallen Leaves
+Raise Spirit
+https://soundcloud.com/dubstep-updates/sets/dubstep-update-october-1
+Submarine
+Jantsen & LUZCID
+
+Confessions (Break Remix)
+Riya
+https://soundcloud.com/riyamusic/confessions-break-remix
+Falling For You
+Venemy
+
+Love me better (Official Alex Schulz Remix)
+LOVETHYBROTHER
+https://www.youtube.com/watch?v=5fy3_UIQBxs
+Nekozilla (LFZ Remix)
+Different Heaven
+
+Hold On
+Jayceeoh & Britt Daley
+
+NightShift
+AT DAWN WE RAGE
+
+Dont Believe It (BH Remix)
+Molly Moore
+
+Beggars (Consouls Remix)
+Krewella
+
+Talk About Me
+Condukta
+
+Ready To Go (ft. KINGDOMS)
+Aruna & Rameses B
+
+Full Control
+Subwave & The Dual Personality
+
+Awake, Asleep
+Speaker of the House x REMMI
+
+# title image(s)
+
+
+res://steamuserimages-a.akamaihd.net/ugc/875250731382365122/113B075AF1341839D5007DA317454F634561C48B/
+
+
+res://steamuserimages-a.akamaihd.net/ugc/875250731382339161/E38098F9C728E79DB9194E59A803E9FCE8A3F709/
+# end tag
+END
