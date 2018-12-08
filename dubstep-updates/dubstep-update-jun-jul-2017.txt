@@ -1,0 +1,119 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux ("one-click dl"):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-jun-jul-2017
+2017
+Dubstep
+# tracklist (song, artist, URL each)
+Hunter (Ben Walter Remix)
+Galantis
+
+Stay (ft. Jojee) (Chime Remix)
+Savoy
+
+Whiplash (jAyMaC Remix)
+ArtAttack
+
+First Time (Gryffin Remix)
+Kygo & Ellie Goulding
+
+Other Girl (Rain Man Remix)
+Morgan Page feat. Rayla
+https://www.youtube.com/watch?v=lQH8AZOLkko
+Concrete Angel feat. Christina Novelli (MitiS Remix)
+Gareth Emery
+https://www.youtube.com/watch?v=Tl7TH4VoXeg
+Got Your Love
+Dirtyphonics x RIOT
+
+Sinking ft. Nori (Headphone Activist Remix)
+Feverkin
+
+Eternity (ft. Progley)
+Nomyn
+
+Clockwork
+Chime X Desembra X Tiigers
+
+Your Heart (ft. Ashley Apollodor)
+RaFelps
+
+Outbreak (ft. MYLK)
+Feint
+
+Train Of Thought
+TRYPLE
+
+Be There
+Krewella
+
+Arise
+Au5
+
+Hold On (BROKEN by HEARTS)
+Rusko X Subfocus
+
+Save You (ft. Hannah K)
+its different & Jaydon Lewis
+
+Waiting
+Equalize
+
+ROCK IT
+Tokyo Machine
+
+Solidified (ft. Armanni Reign & ThugforLess)
+Stereoliez
+
+Celestial (Rob Gasser Remix)
+LoneMoon & Chime
+
+Demons (ft. Micah Martin)
+WE ARE FURY
+
+Extraordinary (ft. Elizaveta)
+Pegboard Nerds x Spyker
+
+Mountains (ft. Progley)
+Ether
+
+Undercover (Adventure Club Remix)
+Kehlani
+
+Firestorm ft. Sara Diamond (Abandoned Remix)
+Adventure Club
+
+Hydra
+Condukta
+
+Init
+Virtual Riot
+
+For The Moment (ft. Fletcher Mills)
+WE ARE FURY
+
+Fractures (Trivecta Remix)
+Illenium
+
+Score (VIP Mix) ft. Pearl Andersson
+White Zoo
+
+# title image(s)
+
+
+# res://steamuserimages-a.akamaihd.net/ugc/925930806590881382/3AB814133BD30C381EC08F031011E3B38CB45969/
+
+
+# res://steamuserimages-a.akamaihd.net/ugc/925930806590887033/7CB5D1983AF7BC1044145B4CB28F06D476551F22/
+# end tag
+END
