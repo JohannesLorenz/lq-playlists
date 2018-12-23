@@ -1,5 +1,5 @@
 # README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
-# * Linux ("one-click dl"):
+# * Linux (one-click dl):
 #   - get LoQuality:
 #     git clone git://github.com/JohannesLorenz/LoQuality.git
 #   - install it (see README)
@@ -17,10 +17,12 @@ Dubstep
 # tracklist (song, artist, URL each)
 Hunter (Ben Walter Remix)
 Galantis
-
-Stay (ft. Jojee) (Chime Remix)
+https://soundcloud.com/ben-walter-12/galantis-hunter-ben-walter-remix-1
+# ^ free dl
+Stay (feat. Jojee) (Chime Remix)
 Savoy
-
+https://soundcloud.com/chimetunes/stay-remix
+# ^ free dl
 Whiplash (jAyMaC Remix)
 ArtAttack
 
@@ -36,78 +38,85 @@ https://www.youtube.com/watch?v=Tl7TH4VoXeg
 Got Your Love
 Dirtyphonics x RIOT
 
-Sinking ft. Nori (Headphone Activist Remix)
+Sinking feat. Nori (Headphone Activist Remix)
 Feverkin
-
-Eternity (ft. Progley)
+https://www.youtube.com/watch?v=uVH4Le90TM8
+Eternity (feat. Progley)
 Nomyn
-
+https://soundcloud.com/nomyn/eternity-ft-progley
+# ^ free dl
 Clockwork
 Chime X Desembra X Tiigers
 
-Your Heart (ft. Ashley Apollodor)
+Your Heart (feat. Ashley Apollodor)
 RaFelps
-
-Outbreak (ft. MYLK)
+https://soundcloud.com/rafelps/your-heart
+Outbreak (feat. MYLK)
 Feint
 
 Train Of Thought
 TRYPLE
-
+https://soundcloud.com/the_tryple/trainofthought
+# ^ free dl
 Be There
 Krewella
-
+https://www.youtube.com/watch?v=jqwXY8h9c5I
 Arise
 Au5
 
 Hold On (BROKEN by HEARTS)
 Rusko X Subfocus
-
-Save You (ft. Hannah K)
+https://soundcloud.com/heartsvip/holdon
+# ^ free dl
+Save You (feat. Hannah K)
 its different & Jaydon Lewis
-
+https://soundcloud.com/lowlypalace/its-different-jaydon-lewis-save-you-feat-hannah-k
+# ^ free dl
 Waiting
 Equalize
 
 ROCK IT
 Tokyo Machine
 
-Solidified (ft. Armanni Reign & ThugforLess)
+Solidified (feat. Armanni Reign & ThugforLess)
 Stereoliez
 
 Celestial (Rob Gasser Remix)
 LoneMoon & Chime
-
-Demons (ft. Micah Martin)
+https://soundcloud.com/rushdownrecs/lonemoon-chime-celestial-rob-gasser-remix
+# ^ free dl
+Demons (feat. Micah Martin)
 WE ARE FURY
 
-Extraordinary (ft. Elizaveta)
+Extraordinary (feat. Elizaveta)
 Pegboard Nerds x Spyker
-
-Mountains (ft. Progley)
+https://soundcloud.com/pegboardnerds/extraordinary-feat-elizaveta-pegboard-nerds-x-spyker
+# ^ free dl
+Mountains (feat. Progley)
 Ether
 
 Undercover (Adventure Club Remix)
 Kehlani
 
-Firestorm ft. Sara Diamond (Abandoned Remix)
+Firestorm feat. Sara Diamond (Abandoned Remix)
 Adventure Club
-
+https://soundcloud.com/abandoned_official/firestorm
+# ^ free dl
 Hydra
 Condukta
 
 Init
 Virtual Riot
 
-For The Moment (ft. Fletcher Mills)
+For The Moment (feat. Fletcher Mills)
 WE ARE FURY
-
+https://www.youtube.com/watch?v=i4Gwa8D8svU
 Fractures (Trivecta Remix)
 Illenium
 
-Score (VIP Mix) ft. Pearl Andersson
+Score (VIP Mix) feat. Pearl Andersson
 White Zoo
-
+https://soundcloud.com/roughdivision/white-zoo-ft-pearl-andersson-score-vip-mix
 # title image(s)
 
 

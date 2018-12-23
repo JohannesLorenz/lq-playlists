@@ -1,0 +1,33 @@
+#!/bin/bash
+
+die()
+{
+	echo "Fehler $@" >&2
+	exit 1
+}
+
+main()
+{
+	[ "$#" -eq 1 ] || die "Expecting exactly one argument"
+	[ -r $1 ] || die "First arg must be a readable file"
+
+	local mfile=$1
+
+	echo "Checking for non ASCII chars..."
+	grep --color -n "[^A-Za-z0-9()&'./#:*^<>=?,_-]" -o $mfile | sed '/: $/d'
+
+	echo "Checking for 'in playlist'..."
+	grep --color -n '?in=' $mfile
+
+	echo "Checking for steam URLS being not res, but http..."
+	grep --color -n 'http://[^[:space:]/]*steam' $mfile
+	
+	echo "Checking for bad 'ft', 'ft.' and 'feat' (must be 'feat.')"
+	grep --color -n '[^A-Za-z]\(ft\.\?\|feat\)[^A-Za-z.]' $mfile | grep -v http
+
+	echo "Please check MANUALLY: No \"ft\" or \"feat\""
+	echo "for any artist. (must be in title)"
+}
+
+main "$@"
+
