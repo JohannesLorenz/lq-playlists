@@ -1,0 +1,4 @@
+language: bash
+script:
+    - shellcheck check
+    - ./check dubstep-updates/dubstep-*.txt

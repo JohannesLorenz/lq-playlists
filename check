@@ -2,31 +2,47 @@
 
 die()
 {
-	echo "Fehler $@" >&2
+	echo "Error: $*" >&2
 	exit 1
 }
 
-main()
+run()
 {
 	[ "$#" -eq 1 ] || die "Expecting exactly one argument"
-	[ -r $1 ] || die "First arg must be a readable file"
+	[ -r "$1" ] || die "First arg must be a readable file"
 
 	local mfile=$1
 
 	echo "Checking for non ASCII chars..."
-	grep --color -n "[^A-Za-z0-9()&'./#:*^<>=?,_-]" -o $mfile | sed '/: $/d'
+	# If this check fails, just add you char to the regex group
+	# Note: avoid [ and ], as they are often used for "[Free Download]"
+	grep --color -n "[^A-Za-z0-9()$&'./#:*^<>=?!,+_-]" -o "$mfile" |
+		grep -v '2:' |
+		grep -v ': $' &&
+		die "$mfile: Non ASCII chars found"
 
 	echo "Checking for 'in playlist'..."
-	grep --color -n '?in=' $mfile
+	grep --color -n '?in=' "$mfile" &&
+		die "$mfile: \"in playlist\" used in link"
 
 	echo "Checking for steam URLS being not res, but http..."
-	grep --color -n 'http://[^[:space:]/]*steam' $mfile
+	grep --color -n 'http://[^[:space:]/]*steam' "$mfile" &&
+		die "steam URL found with \"http://\" instead of \"res://\""
 	
 	echo "Checking for bad 'ft', 'ft.' and 'feat' (must be 'feat.')"
-	grep --color -n '[^A-Za-z]\(ft\.\?\|feat\)[^A-Za-z.]' $mfile | grep -v http
+	grep --color -n '[^A-Za-z]\(ft\.\?\|feat\)[^A-Za-z.]' "$mfile" | grep -v 'mp3://\|http' &&
+		die "Found one of \"ft\", \"ft.\" or \"feat\", must be \"feat.\""
 
 	echo "Please check MANUALLY: No \"ft\" or \"feat\""
 	echo "for any artist. (must be in title)"
+}
+
+main()
+{
+	for i in "$@"
+	do
+		run "$i"
+	done
 }
 
 main "$@"
