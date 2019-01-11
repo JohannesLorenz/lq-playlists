@@ -120,9 +120,6 @@ https://soundcloud.com/roughdivision/white-zoo-ft-pearl-andersson-score-vip-mix
 # title image(s)
 
 
-# res://steamuserimages-a.akamaihd.net/ugc/925930806590881382/3AB814133BD30C381EC08F031011E3B38CB45969/
-
-
-# res://steamuserimages-a.akamaihd.net/ugc/925930806590887033/7CB5D1983AF7BC1044145B4CB28F06D476551F22/
+res://steamuserimages-a.akamaihd.net/ugc/954101320502479094/14B0F7048745553E7E12B3EC432685B9F75D76E4/
 # end tag
 END
