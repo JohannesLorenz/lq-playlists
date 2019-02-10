@@ -30,7 +30,7 @@ run()
 		die "steam URL found with \"http://\" instead of \"res://\""
 	
 	echo "Checking for bad 'ft', 'ft.' and 'feat' (must be 'feat.')"
-	grep --color -n '[^A-Za-z]\(ft\.\?\|feat\)[^A-Za-z.]' "$mfile" | grep -v 'mp3://\|http' &&
+	grep --color -n -i '[^A-Za-z]\(ft\.\?\|feat\)[^A-Za-z.]' "$mfile" | grep -v 'mp3://\|http' &&
 		die "Found one of \"ft\", \"ft.\" or \"feat\", must be \"feat.\""
 
 	echo "Please check MANUALLY: No \"ft\" or \"feat\""
