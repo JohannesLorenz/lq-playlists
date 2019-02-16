@@ -82,6 +82,9 @@ Illenium & Kerli
 # title image(s)
 
 
-res://
+res://steamuserimages-a.akamaihd.net/ugc/950726709851046579/E744A107F00F7DE243B5EE114729DAA45CC40D41/
+
+
+res://steamuserimages-a.akamaihd.net/ugc/950726709851052962/81113B0AE5F8AB49313E2B28040A26445EEB6211/
 # end tag
 END
