@@ -1,0 +1,134 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux (one-click dl):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-feb-mar-2017
+2017
+Dubstep
+# tracklist (song, artist, URL each)
+Resist
+MUST DIE!
+
+One More Time
+The Brig
+https://soundcloud.com/mostaddictivemusic/brig-one-more-time
+Ricochet
+Rob Gasser
+
+What The Funk
+Chime x Rob Gasser x Brig
+https://soundcloud.com/dailyearfood/what-the-funk
+# ^ free dl
+Forever Or Nothing feat. Lauren Bennett (Skinny Kidz Remix)
+NERVO & Savi
+
+Need Your Heart 2.0 (Adventure Club X Dion Timmer X Kai)
+Adventure Club
+https://soundcloud.com/adventureclub/need-your-heart-20-adventure-club-x-dion-timmer-x-kai
+# ^ free dl
+Big Bad
+Borgore
+
+Memory
+MUST DIE!
+
+Habit (INDO Remix)
+Rain Man & Krysta Youngs
+https://soundcloud.com/indoofficial/rain-man-krysta-youngs-habit-indo-remix-1
+Lost In Your Love feat. Example
+Dirtyphonics
+
+Sand Dunes
+Kaynein
+
+I Cant See The Ground (Original Mix)
+Phaera & Maya Wolff
+
+Voices (NOIZEK REMIX)
+Leila Adham
+https://soundcloud.com/madloudnetwork/leila-adham-voices-noizek/s-nang5
+# ^ free dl
+Go Together feat. Yole Tims
+WARR!OR
+https://soundcloud.com/apexrecordings/warrior-go-together-feat-yole-tims/s-nang5
+# ^ free dl
+In My Head (DDr Remix)
+Virtual Riot
+
+Blossom (VIP)
+Au5
+
+Lilith feat. Apashe & Madi
+Dabin
+https://www.youtube.com/watch?v=7EDcCtERk_g
+Another Day (xKore Remix)
+Modestep
+
+Purp Machine
+FiASKO & RoboDrop
+
+Earth Past
+Flite
+
+Johnny
+Dr. Ozi
+https://soundcloud.com/neversaydie/dr-ozi-johnny-1/s-nang5
+Blame feat. Elliphant (Champagne Drip Remix)
+Zeds Dead & Diplo
+https://www.youtube.com/watch?v=4DtCdDW3PtE
+Answers
+Kaynein & Digital Splatter
+https://soundcloud.com/dsv-audio/answers/s-nang5
+# ^ free dl
+Let Me Go feat. PRXZM
+Wuki
+https://soundcloud.com/source-recordings/wuki-ft-prxzm-let-me-go/s-nang5
+Afterlife feat. Jarell Perry
+Hex Cougar
+https://soundcloud.com/hexcougar/afterlife-feat-jarell-perry/s-nang5
+# ^ free dl
+BLAST
+Tokyo Machine
+
+Say Goodbye feat. Noctilucent
+Skyvoice
+https://www.youtube.com/watch?v=_H8oH3N4lew
+Frontlines feat. GG Magree (Crankdat Remix)
+Zeds Dead X NGHTMRE
+
+The Great Divide (Teminite & The Arcturians Remix)
+Rebecca Black
+https://www.youtube.com/watch?v=ia0lp5kHM3M
+Everything Black (feat. Mike Taylor)
+Unlike Pluto
+https://www.youtube.com/watch?v=lcg6wekmCRA
+In My Head feat. PRXZM (Beatcore Remix)
+Virtual Riot
+
+Soulbound (Soar & Lite Remix)
+Mirandus & Vorsa
+https://www.youtube.com/watch?v=ioBuwDw64yU
+Home
+Nitro Fun
+
+Far From You feat. Progley
+Aeon
+
+Fractures feat. Nevve
+Illenium
+
+# title image(s)
+
+
+res://
+# end tag
+END

@@ -1,0 +1,100 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux (one-click dl):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-apr-may-2017
+2017
+Dubstep
+# tracklist (song, artist, URL each)
+Rich Boy (Said The Sky Remix)
+Galantis
+
+ECHO (LET GO) (Protohype & The Arcturians Remix)
+Breathe Carolina x IZII
+https://soundcloud.com/spinninrecords/breathe-carolina-x-izii-echo-let-go-protohype-the-arcturians-remix
+Ritual feat. Wrabel (Ray Volpe Remix)
+Marshmello
+
+Chasing Colors feat. Noah Cyrus (Blank Flip)
+Marshmello x Ookay
+https://soundcloud.com/iamblank/chasingcolorsflip
+# ^ free dl
+Emergence (Psy Fi Remix)
+Au5 & Cristina Soto
+https://www.youtube.com/watch?v=aLMv74WQ0-Q
+Hypnotize
+Fliwo
+https://soundcloud.com/galacy/fliwo-hypnotize-1
+Best (AFK Remix)
+Borgore
+https://www.youtube.com/watch?v=KDFyqs6HaZw
+Here Comes The Night (Shockone Remix)
+DJ SNAKE
+
+Speed Of Light (Andy C remix)
+Pegboard Nerds
+
+Simple feat. Victoria Zaro
+Autograf
+https://www.youtube.com/watch?v=7IqcgrJEerc
+AV8 (Original Mix)
+MERCER
+https://soundcloud.com/mercer/mercer-av8-original-mix-1
+Listen To Your Heart (Harmoony Remix)
+Harmoony
+https://soundcloud.com/harmoonymusic/roxette-listen-to-your-heart-harmoony-remixfree-download
+Coconuts feat. J.Lauryn
+Triarchy
+https://www.youtube.com/watch?v=tC_r4-7acNo
+Messiah (VICE CITY & Kurei Remix)
+VICE CITY
+https://soundcloud.com/thevicecity/alisonwonderland-vicecityremix
+# ^ free dl
+Heart Away From You (Culture Code Remix)
+Culture Code
+
+Emergence feat. Cristina Soto (Bloom & Jeto Remix)
+Au5
+
+Firestorm feat. Sara Diamond (Sunday Service Remix)
+Adventure Club
+
+Another Night feat. Karra
+Minnesota
+https://soundcloud.com/minnesota/anothernight
+Lately
+Dead Robot x tribes.
+https://soundcloud.com/deadrobotmusic/lately
+# ^ free dl
+Matter (BLU J Remix)
+Shallows
+
+Save Me feat. Ashley Apollodor
+Eckoh
+https://soundcloud.com/eckoh-man/eckoh-save-me-ft-ashley-apollodor-2
+# ^ free dl
+Heavy feat. Kiiara (MAGNUS Remix)
+Linkin Park
+https://soundcloud.com/youngxgods/heavy
+# ^ free dl
+Sound of Walking Away
+Illenium & Kerli
+
+# title image(s)
+
+
+res://steamuserimages-a.akamaihd.net/ugc/950726709851046579/E744A107F00F7DE243B5EE114729DAA45CC40D41/
+
+
+res://steamuserimages-a.akamaihd.net/ugc/950726709851052962/81113B0AE5F8AB49313E2B28040A26445EEB6211/
+# end tag
+END
