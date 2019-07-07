@@ -17,16 +17,16 @@ Dubstep
 # tracklist (song, artist, URL each)
 Rich Boy (Said The Sky Remix)
 Galantis
-
+https://github.com/DissCent/lq-playlists
 ECHO (LET GO) (Protohype & The Arcturians Remix)
 Breathe Carolina x IZII
 https://soundcloud.com/spinninrecords/breathe-carolina-x-izii-echo-let-go-protohype-the-arcturians-remix
 Ritual feat. Wrabel (Ray Volpe Remix)
 Marshmello
-
+https://soundcloud.com/rayvolpemusic/ritual
 Chasing Colors feat. Noah Cyrus (Blank Flip)
 Marshmello x Ookay
-https://soundcloud.com/iamblank/chasingcolorsflip
+https://soundcloud.com/rayvolpemusic/ritual
 # ^ free dl
 Emergence (Psy Fi Remix)
 Au5 & Cristina Soto
@@ -39,10 +39,10 @@ Borgore
 https://www.youtube.com/watch?v=KDFyqs6HaZw
 Here Comes The Night (Shockone Remix)
 DJ SNAKE
-
+https://www.youtube.com/watch?v=p-94-CGTDuo
 Speed Of Light (Andy C remix)
 Pegboard Nerds
-
+https://www.youtube.com/watch?v=1aOc_8uzS2Y
 Simple feat. Victoria Zaro
 Autograf
 https://www.youtube.com/watch?v=7IqcgrJEerc
@@ -61,13 +61,13 @@ https://soundcloud.com/thevicecity/alisonwonderland-vicecityremix
 # ^ free dl
 Heart Away From You (Culture Code Remix)
 Culture Code
-
+https://soundcloud.com/culturecode/heart-away-from-you
 Emergence feat. Cristina Soto (Bloom & Jeto Remix)
 Au5
-
+https://www.youtube.com/watch?v=_RHIOeQRU-w
 Firestorm feat. Sara Diamond (Sunday Service Remix)
 Adventure Club
-
+https://soundcloud.com/sundayserviceofficial/adventure-club-firestorm-ft-sara-diamond-sunday-service-remix
 Another Night feat. Karra
 Minnesota
 https://soundcloud.com/minnesota/anothernight
@@ -77,7 +77,7 @@ https://soundcloud.com/deadrobotmusic/lately
 # ^ free dl
 Matter (BLU J Remix)
 Shallows
-
+https://soundcloud.com/blujmusic/shallows-matter-blu-j-remix
 Save Me feat. Ashley Apollodor
 Eckoh
 https://soundcloud.com/eckoh-man/eckoh-save-me-ft-ashley-apollodor-2
@@ -88,7 +88,7 @@ https://soundcloud.com/youngxgods/heavy
 # ^ free dl
 Sound of Walking Away
 Illenium & Kerli
-
+https://soundcloud.com/au5/illenium-sound-of-walking-away-feat-kerli-au5-fractal-remix
 # title image(s)
 
 
