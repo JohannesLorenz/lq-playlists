@@ -129,6 +129,6 @@ Illenium
 # title image(s)
 
 
-res://
+res://steamuserimages-a.akamaihd.net/ugc/787484160766737712/1A1E5966B47FD291B7B0360A58B2E4EBD839B1D7/
 # end tag
 END
