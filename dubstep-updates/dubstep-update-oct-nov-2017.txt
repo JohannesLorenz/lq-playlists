@@ -1,0 +1,95 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux (one-click dl):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-oct-nov-2017
+2017
+Dubstep
+# tracklist (song, artist, URL each)
+Hold On To Tremor (Doobwr Edit)
+Dimitri Vegas x Martin Garrix x Like Mike x Sullivan King x Riot Ten vs Yellow Claw x GTA
+https://soundcloud.com/doobwr/hold-on-to-tremor-doobwr-edit
+THE DROP
+Gammer
+https://soundcloud.com/djgammer/thedrop
+Higher
+Modestep
+
+New Rules (Rich James remix)
+Dua Lipa
+https://soundcloud.com/rjremixes2/new-rules-rich-james-remix
+Ecotone (Au5 Remix)
+Psy Fi
+
+Halcyon Minds
+Famous Spear
+https://soundcloud.com/drumandbass/famous-spear-halcyon-minds
+Worth The Lie
+Muzzy & Koven & Feint
+
+Crossfire (ft. Mona Moua)
+SNOWMASS
+
+No Limits
+Beatcore, AFF1N1TY & Corinna Jasmina
+
+Champagne (Kazukii & Jeto Remix)
+NERVO
+https://soundcloud.com/jetomoosic/champagne-remix
+# ^ free dl
+Bleed It Out (ft. Nea)
+Kasbo
+
+Hollywood (RCKT PWR Remix)
+Crystal Knives
+
+Problems (ft. Huskai)
+Nasko
+
+Symphony (Ryos Remix)
+Zara Larsson
+
+Last Weekend
+Luca Testa
+
+Despacito ft. Daddy Yankee & Justin Bieber (DNMO Remix)
+Luis Fonsi
+
+Love Gang ft. Charli XCX (Maazel & Facade Remix)
+Whethan
+
+New Rules (Adrien Mezsi & Noizy Mark Remix)
+Dua Lipa
+https://soundcloud.com/adrienmezsinoizymark/newrules
+# ^ free dl
+Halloween
+Skan
+
+Juggernaut
+Voldex
+
+Be Like Me
+Trilla
+https://soundcloud.com/astral-label/be-like-me
+# ^ free dl
+Life Goes On Ft. Anuka
+Dubloadz
+
+Waiting (ft. Olivia Lunny)
+WE ARE FURY
+
+# title image(s)
+
+
+res://steamuserimages-a.akamaihd.net/ugc/787486340369339926/7691D239FA531D90783A074FE9EEB7C5539BDC26/
+# end tag
+END

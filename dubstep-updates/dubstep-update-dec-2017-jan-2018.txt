@@ -1,0 +1,107 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux (one-click dl):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-dec-2017-jan-2018
+2018
+Dubstep
+# tracklist (song, artist, URL each)
+Revival
+JNX
+
+Alarm
+Lookas & Krewella
+
+Little Doubts (feat. Aviella)
+Spirix
+
+Skull Crusher
+OmegaMode
+
+Riot Call feat. Neeve (AJF & BLSZRD Remix)
+QUIX
+
+A Different Way feat. Lauv (SUBSHOCK & EVANGELOS REMIX)
+DJ Snake
+
+No Fears
+Michael White
+
+King Is Back
+The Brig
+
+Power Up!
+Protohype
+
+Hey Skrillex
+OmegaMode
+
+Depart
+Cherney
+
+Bounce
+INF1N1TE & Dubscribe
+
+Again feat. XXXTENTACION (Renzyx Remix)
+Noah Cyrus
+
+Steady 1234 feat. Jasmine Thompson & Skizzy Mars (CRVE U Remix)
+Vice
+
+Waking Up The Dead feat. Elle Vee (Blaize Remix)
+Two Owls
+
+FEEL (with Miss Lina)
+rob gasser
+
+Disconnected VIP (feat. Desiree Dawson)
+Pegboard Nerds
+
+Lights Go Down
+Zeds Dead & Jauz
+
+Cities with Leche
+Jousboxx
+
+Mirakuru (Rameses B Remix)
+Indivision
+
+World To Me (feat. Luke James) (Rootkit Remix)
+Tchami
+
+In The Dark (Nyha X Voldex X Thomas Remix)
+Jochen Miller & Cuebrick
+
+New World (BROKN Remix)
+Yellow Claw & Krewella
+
+Alarm (neutral. Remix)
+Lookas & Krewella
+
+Again (Culture Code Remix)
+Noah Cyrus
+
+Breathe (Last Heroes & Crystal Skies Remix)
+Laura Brehm
+
+Dont Forget feat. Mariah Delage
+WE ARE FURY
+
+Sound Of Walking Away (Decadon Remix)
+Illenium & Kerli
+
+# title image(s)
+
+
+res://steamuserimages-a.akamaihd.net/ugc/778485010157372391/35FB06DB4380FFDCDC80BB353A2D2ACE13CD24F6/
+# end tag
+END
