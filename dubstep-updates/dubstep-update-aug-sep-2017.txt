@@ -11,7 +11,7 @@
 #   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
 #
 # meta: filename, year, genre
-dubstep-update-feb-mar-2017
+dubstep-update-aug-sep-2017
 2017
 Dubstep
 # tracklist (song, artist, URL each)
@@ -37,80 +37,73 @@ https://soundcloud.com/sekaitunes/slowly
 # ^ free download
 Call Me
 Dead Critic & DropDead
-
+https://www.youtube.com/watch?v=4cKFhC-mY3c
 All I Need (feat. Brenton Mattheus) (Spell Check Remix)
 Vanze x Balco x Fransis Derelle
 https://soundcloud.com/spellcheckx/vanze-x-balco-x-fransis-derelle-all-i-need-feat-brenton-mattheusspell-check-remix
 Perfect Places (White Panda Remix)
 Lorde
-
+https://soundcloud.com/whitepanda/perfect-places-remix
 GOLDEN DREAMS
 BLU J
 https://soundcloud.com/blujmusic/golden-dreams
 # ^ free download
 Blood Brother
 Zeds Dead x DISKORD x Reija Lee
-
+https://www.youtube.com/watch?v=C7Tlfy4BTqQ
 Wasted (feat. Marco Foster)
 JayKode
 https://soundcloud.com/lowlypalace/jaykode-wasted-feat-marco-foster
 # ^ free download
-
 Limitless (feat. Sophie Rose)
 Sam F
 https://www.youtube.com/watch?v=2y7Cwum9S5E
 A Dark Machine feat. Reija Lee
 Shockone
-
+https://www.youtube.com/watch?v=NHCVDApbFmA
 Obskure
 Condukta
-
+https://www.youtube.com/watch?v=VPrKrkq28UI
 New World (feat. Taylor Bennett)
 Krewella & Yellow Claw
 https://soundcloud.com/krewella/new-world-feat-taylor-bennett
 Score feat. Pearl Anderson (REDAX Remix)
 White Zoo
-https://soundcloud.com/roughdivision/white-zoo-ft-pearl-anderson-score-redax
+https://www.youtube.com/watch?v=PKMdI6v3Axo
 How U Like Me Now (feat. Roniit)
 Savoy
-
+https://www.youtube.com/watch?v=26C9urpvpBc
 Waterfall
 Kotori & JVNA
-
+https://soundcloud.com/imkotori/waterfall
 Perfect Places (Whethan Remix)
 Lorde
 https://www.youtube.com/watch?v=qpPWmksj6ZQ
 Waves (feat. Ashley Apollodor)
 Midranger
-
+https://www.youtube.com/watch?v=iklVIkEVGM8
 Lonely Street (BARILAN Remix)
 Snavs & Fabian Mazur
-https://soundcloud.com/barilanmusic/snavs-fabian-mazur-lonely-street-barilan-remix
-Troubled feat. Debs Daughter (BRKLYN Remix)
-Elephante
-
-We Might Fall (Kyle Walker Remix)
-Ghastly x Matthew Koma
-
+https://www.youtube.com/watch?v=ZMxzuLzCvjg
 Savage
 Protohype & Dack Janiels
-
+https://www.youtube.com/watch?v=6qg7J87inHA
 Dream Eater
 STEEZ
 https://soundcloud.com/electrostepnetwork/dreameater
 # ^ free download
 Walk Her Way (feat. Amanda)
 T & Sugah
-
+https://soundcloud.com/liquicityrecords/t-sugah-walk-her-way-ft-amanda
 Needed You (feat. Dia Frampton)
 Illenium
-
+https://soundcloud.com/illeniumofficial/illenium-needed-you-ft-dia-frampton
 Waking Up The Dead (feat. Elle Vee)
 TWO OWLS
 https://soundcloud.com/twoowlsmusic/wutd
 Ever Wonder (feat. Progley)
 Overtone
-
+https://soundcloud.com/progley/overtone-ever-wonder-feat-progley
 Cathedral
 Psy Fi
 https://soundcloud.com/dubstep/psy-fi-cathedral
