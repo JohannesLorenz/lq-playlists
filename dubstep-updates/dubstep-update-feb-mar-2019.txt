@@ -1,0 +1,98 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux (one-click dl):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-feb-mar-2019
+2019
+Dubstep
+# tracklist (song, artist, URL each)
+Bulletproof ft. Eva Simons (Chime Remix)
+Doctor P
+
+Inner Fire
+The Brig
+
+PLAY
+Tokyo Machine
+
+Sell Out
+Marshmello x SVDDEN DEATH
+
+Energize
+Au5
+
+Heavy Duty
+DirtySnatcha & Rico Act
+
+Show Up Ft. Virus Syndicate (Tetrix Bass & Lightnix Remix)
+Virtual Riot
+
+Modular (with Michael White & Miss Lina)
+rob gasser
+
+Savage (ft. Flux Pavilion & Max)
+Whethan
+
+Due West
+Psy Fi
+
+Parallel Lines (ft. Veronica Bravo)
+NEZZY & Coopex
+
+Melody (ft. Micah Martin) (Beatcore Remix)
+Urbanstep
+
+Drunken Master (Rob Gasser Remix)
+The Brig
+
+Don't Kill My High ft. Wiz Khalifa & Social House (Ketafere Remix)
+Lost Kings
+
+All Might (Similar Outskirts Remix)
+Kotori
+
+Rainbow Of Fire
+Ablaze
+
+Run (Chime Remix)
+Xilent
+
+Pixel Perfect
+Chime
+
+Sidequest (ft. LoneMoon)
+Chime
+
+Internet Boy (ft. Micah Martin)
+Dion Timmer
+
+Lockdown
+The Brig & Ashley Apollodor
+
+Forever
+Chester Young & STIMX
+
+SEEK BROMANCE (MiNDTRiX REMiX)
+Avicii
+
+Crashing (JVNA Cover)
+Illenium
+
+Farewell (ft. Progley)
+Rameses B
+
+# title image(s)
+
+
+res://
+# end tag
+END
