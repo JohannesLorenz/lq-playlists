@@ -1,0 +1,16 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: shellcheck
+      run:  shellcheck check
+    - name: check
+      run:  ./check dubstep-updates/dubstep-*.txt
+
