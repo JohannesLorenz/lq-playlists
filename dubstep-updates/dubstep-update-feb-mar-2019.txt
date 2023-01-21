@@ -17,82 +17,89 @@ Dubstep
 # tracklist (song, artist, URL each)
 Bulletproof feat. Eva Simons (Chime Remix)
 Doctor P
-
+https://soundcloud.com/chimetunes/bulletproof-remix
 Inner Fire
 The Brig
-
+https://soundcloud.com/mostaddictivemusic/the-brig-inner-fire
 PLAY
 Tokyo Machine
-
+https://soundcloud.com/monstercat/tokyo-machine-play
 Sell Out
 Marshmello x SVDDEN DEATH
-
+https://www.youtube.com/watch?v=yrAxC5zSHR8
+Memory Bomb
+HIGHSOCIETY
+https://soundcloud.com/playmerecords/highsociety-memory-bomb
 Energize
 Au5
-
+https://soundcloud.com/au5/au5-energize
+# ^ free download
 Heavy Duty
 DirtySnatcha & Rico Act
-
+https://soundcloud.com/dirtysnatcha/heavy-duty
 Show Up feat. Virus Syndicate (Tetrix Bass & Lightnix Remix)
 Virtual Riot
-
+https://www.youtube.com/watch?v=pf9vjIfTqjU
 Modular (with Michael White & Miss Lina)
 rob gasser
-
+https://www.youtube.com/watch?v=qLSocIQ8R10
 Savage (feat. Flux Pavilion & Max)
 Whethan
-
+https://soundcloud.com/synymata/savage-synymata-remix
 Due West
 Psy Fi
-
+https://soundcloud.com/vibe-digital/psy-fi-due-west
 Parallel Lines (feat. Veronica Bravo)
 NEZZY & Coopex
-
+https://soundcloud.com/coopexofficial/parallel-lines
 Melody (feat. Micah Martin) (Beatcore Remix)
 Urbanstep
-
+https://www.youtube.com/watch?v=rr2bRRZR4VA
 Drunken Master (Rob Gasser Remix)
 The Brig
-
+https://www.youtube.com/watch?v=5vRJc4ew_ok
 Dont Kill My High feat. Wiz Khalifa & Social House (Ketafere Remix)
 Lost Kings
-
+https://soundcloud.com/ketafere/lost-kings-feat-wiz-khalifa-social-house-dont-kill-my-high-ketafere-remix-free-dl/s-cgcYF1PZDBy
+# ^ free download
 All Might (Similar Outskirts Remix)
 Kotori
-
+https://soundcloud.com/similar-outskirts/all-might-remix
 Rainbow Of Fire
 Ablaze
-
+https://soundcloud.com/reinelex/rainbow-of-fire/s-cgcYF1PZDBy
 Run (Chime Remix)
 Xilent
-
+https://soundcloud.com/chimetunes/run-remix
 Pixel Perfect
 Chime
-
+https://soundcloud.com/rushdownrecs/chime-pixel-perfect
 Sidequest (feat. LoneMoon)
 Chime
-
+https://soundcloud.com/disciple/sidequest
+# ^ free download
 Internet Boy (feat. Micah Martin)
 Dion Timmer
-
+https://www.youtube.com/watch?v=cRJQfydRKZQ
 Lockdown
 The Brig & Ashley Apollodor
-
+https://soundcloud.com/mostaddictivemusic/the-brig-ashley-apollodor
 Forever
 Chester Young & STIMX
-
+https://www.youtube.com/watch?v=mRZXmQgsgUA
 SEEK BROMANCE (MiNDTRiX REMiX)
 Avicii
-
+https://soundcloud.com/trixyourmind/avicii-seek-bromance-mindtrix-remix
+# ^ free download
 Crashing (JVNA Cover)
 Illenium
-
+https://www.youtube.com/watch?v=Phs4rbuKAdk
 Farewell (feat. Progley)
 Rameses B
-
+https://www.youtube.com/watch?v=D3sJZ_vKCdM
 # title image(s)
 
 
-res://
+res://steamuserimages-a.akamaihd.net/ugc/5069395935065324896/CCB5858AF7C93E28D68D7C35A032BFEF2C38A9E2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 # end tag
 END
