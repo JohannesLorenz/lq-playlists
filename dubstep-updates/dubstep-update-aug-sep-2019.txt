@@ -1,0 +1,116 @@
+# README: DOWNLOAD INSTRUCTIONS (WINDOWS/LINUX)
+# * Linux (one-click dl):
+#   - get LoQuality:
+#     git clone git://github.com/JohannesLorenz/LoQuality.git
+#   - install it (see README)
+#   - run ./create_list.sh < THISFILENAME
+#     and follow the instructions
+# * Windows (manual):
+#   open all links in Firefox. Use Plugins like these:
+#   - mp3://addons.mozilla.org/de/firefox/addon/youtube-to-mp3/
+#   - mp3://addons.mozilla.org/de/firefox/addon/soundcloud-downloader-techn/
+#
+# meta: filename, year, genre
+dubstep-update-aug-sep-2019
+2019
+Dubstep
+# tracklist (song, artist, URL each)
+Falling
+DirtySnatcha
+https://soundcloud.com/dirtysnatcha/falling
+# ^ free download
+Echo (Desmeon Remix)
+Crusher-P
+https://soundcloud.com/desmeon/crusher-p-echo-remix
+# ^ free download
+Right Here (feat. Akacia) (MOZ. Remix)
+Zathlute
+https://soundcloud.com/edm/zathlute-right-here-feat-akacia-moz-remix
+Champions
+The Brig
+https://www.youtube.com/watch?v=zTq2CtePvi4
+Certainly Not Riddim
+Stabby
+https://soundcloud.com/stabby/noriddim
+Unstoppable
+Teminite
+https://www.youtube.com/watch?v=0zaeOXP06rU
+Cool feat. Ess Bogale
+Viva La Panda
+https://soundcloud.com/chillyourmind/viva-la-panda-cool-feat-ess-bogale-1
+Here We Go
+Barely Alive & Fox Stevenson
+https://soundcloud.com/disciple/herewego
+Adrenaline
+PsoGnar
+https://soundcloud.com/psognar-official/psognar-adrenaline
+Find You
+Mynerva & Nytrix
+https://soundcloud.com/nocopyrightsounds/mynerva-nytrix-find-you-ncs-release/s-njhFdJ1Gj2Q
+# ^ free download
+Never Be Alive
+Beatcore
+https://soundcloud.com/beatcoreofficial/never-be-alive
+Miles Apart (feat. Ella Noel & Rino) (Fox Stevenson Remix)
+Maduk
+https://soundcloud.com/liquicityrecords/maduk-miles-apart-ft-ella-noel-rino-fox-stevenson-remix-1
+Lift You Up (Oliverse Remix)
+Zeds Dead X Delta Heavy
+https://www.youtube.com/watch?v=Q_XsHzIa94g
+BODY (feat. Luna Aura)
+LICK
+https://soundcloud.com/iamlick/lick-body-ft-luna-aura
+Sundown
+Jarvis
+https://soundcloud.com/mostaddictivemusic/jarvis-sundown
+Live That Way (feat. Cassandra Kay)
+SIPPY
+https://soundcloud.com/dimmakrecords/sippy-live-that-way-feat-cassandra-kay
+Ring The Alarm
+Redax
+https://soundcloud.com/redaxofficial/ring-the-alarm
+Third Planet
+Wolf-e-Wolf
+https://soundcloud.com/wolfewolf/third-planet
+Spending All My Time (feat. Hatsune Miku & Gumi) (Desmeon Remix)
+Perfume
+https://soundcloud.com/desmeon/desmeon-spending-all-my-time-feat-hatsune-miku-gumi
+# ^ free download
+Part Time Lover (Crystal Skies Remix)
+Dabin
+https://soundcloud.com/crystalskies/dabin-part-time-lover-crystal-skies-remix
+# ^ free download
+Already Know
+Adventure Club x Said the Sky
+https://soundcloud.com/adventureclub/adventure-club-x-said-the-sky-already-know-feat-caly-bevier
+Break Loose (feat. NEIMY)
+Lulleaux
+https://www.youtube.com/watch?v=hU-3w0q0_7M
+I ll Live On feat. Jantine
+Swanky Tunes
+https://soundcloud.com/swankytunes/ill-live-on
+West Coast feat. Karra (GEO Remix)
+Dirty Audio
+https://soundcloud.com/iamgeoofficial/westcoast
+RUNAWAY feat. Tori Letzler
+LICK
+https://soundcloud.com/iamlick/lick-runaway-ft-tori-letzler
+Fake (feat. Amy Kirkpatrick)
+HIGHSOCIETY
+https://soundcloud.com/highsocietyofficial/fake
+Blood feat. Foy Vance
+ILLENIUM
+https://soundcloud.com/illeniumofficial/illenium-blood-ft-foy-vance
+How I Feel (feat. King Salomon)
+Antiserum
+https://soundcloud.com/antiserum/how-i-feel
+Close To The Sun
+TheFatRat & Anjulie
+https://soundcloud.com/thefatrat/thefatrat-anjulie-close-to-the-sun
+# title image(s)
+
+
+res://steamuserimages-a.akamaihd.net/ugc/5069395935065306481/40714A54568CFD11C12EBD2171D593F1246C128E/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
+# end tag
+END
+
